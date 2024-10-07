@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pronostics du jour</title>
+    
+    <!-- Inclusion de Bootstrap via CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center my-4">Pronostics du jour</h1>
+
+        <!-- Si une erreur est présente, on l'affiche dans une alerte -->
+        {% if error %}
+            <div class="alert alert-danger" role="alert">
+                {{ error }}
+            </div>
+        {% else %}
+            <!-- Boucle sur chaque compétition -->
+            {% for competition in pronostics %}
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h2 class="h5">{{ competition.competition_name }}</h2>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <!-- Boucle sur chaque match dans la compétition -->
+                        {% for match in competition.matches %}
+                            <li class="list-group-item">
+                                <p><strong>Heure :</strong> {{ match.match_time }}</p>
+                                <p><strong>Match :</strong> {{ match.teams }}</p>
+                                <p><strong>Pronostic :</strong> {{ match.pronostic }}</p>
+                                
+                                <!-- Section pour afficher les cotes -->
+                                <p><strong>Cotes :</strong>
+                                    {% if match.coefficients %}
+                                        {% for coef in match.coefficients %}
+                                            <span class="badge bg-secondary">{{ coef }}</span>
+                                        {% endfor %}
+                                    {% else %}
+                                        Aucune cote disponible.
+                                    {% endif %}
+                                </p>
+
+                                <!-- Section pour afficher les valeurs -->
+                                <p><strong>Valeurs :</strong>
+                                    {% if match.values %}
+                                        {% for value in match.values %}
+                                            <span class="badge bg-info">{{ value }}</span>
+                                        {% endfor %}
+                                    {% else %}
+                                        Aucune valeur disponible.
+                                    {% endif %}
+                                </p>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
+        {% endif %}
+    </div>
+
+    <!-- Inclusion des scripts Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
