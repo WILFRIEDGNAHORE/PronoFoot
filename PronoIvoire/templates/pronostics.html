@@ -1,0 +1,130 @@
+{% extends 'base.html'%}
+{% load static %}
+
+
+
+    
+
+    {%block content %}
+
+<!-- banner-section start -->
+<section class="banner-section inner-banner all-tips">
+    <div class="overlay">
+        <div class="shape-area">
+            <img src="assets/images/banner-obj-1.png" class="obj-1" alt="image">
+            <img src="assets/images/banner-obj-2.png" class="obj-2" alt="image">
+        </div>
+        <div class="banner-content d-flex align-items-center">
+            <div class="container">
+                <div class="row justify-content-start">
+                    <div class="col-lg-7 col-md-10">
+                        <div class="main-content">
+                            <h1>All Tips</h1>
+                            <div class="breadcrumb-area">
+                                <nav aria-label="breadcrumb">
+                                    <ol class="breadcrumb d-flex align-items-center">
+                                        <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">All Tips</li>
+                                    </ol>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- banner-section end -->
+
+<!-- All Tips Content In start -->
+<section class="all-tips-content">
+    <div class="overlay pt-120">
+        <div class="container">
+            <div class="row justify-content-between">
+                
+                <div class="col-lg-8">
+                    <div class="right-area">
+                        <div class="heading-area">
+                            <h4><span>66</span> Matches (<span>374</span> Active Tips)</h4>
+                            <div class="bottom-item">
+                                <div class="row justify-content-between align-items-center">
+                                    <div class="col-xl-6 col-lg-6">
+                                        <p>Today, 13 Oct 2021 GMT</p>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        {% for competition in competitions %}
+    <h2>{{ competition.competition_name }}</h2>
+
+    {% for match in competition.matches %}
+    <div class="single-item">
+        <div class="top-area">
+            <div class="left">
+                <p class="mdr">{{ match.match_time }} </p>
+            </div>
+            <div class="right">
+                <img src="https://pronosticsfootball365.com/wp-content/uploads/2024/08/1724207683_752_210.png" alt="icon">
+                <p class="mdr">{{ match.pronostic }}</p>
+            </div>
+        </div>
+        <div class="mid-area">
+            <h5>{{ competition.competition_name }}</h5>
+            <div class="sports">
+                <div class="single d-flex align-items-center flex-fill">
+                    <div class="logo-area">
+                        <img src="assets/images/italy-logo.png" alt="logo"> <!-- Vous pouvez ajouter des logos dynamiquement ici si disponibles -->
+                    </div>
+                    <h6>{{ match.team1 }}</h6>
+                </div>
+                <div class="vs">
+                    <h4>vs</h4>
+                </div>
+                <div class="single d-flex align-items-center flex-fill">
+                    <div class="logo-area">
+                        <img src="assets/images/belgium-logo.png" alt="logo"> <!-- Idem ici pour le logo de l'autre équipe -->
+                    </div>
+                    <h6>{{ match.team2 }}</h6>
+                </div>
+            </div>
+            <div class="btn-area text-center">
+                <a href="match-betting.html" class="cmn-btn mdr">Select Match</a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    {% endfor %}
+
+
+                        
+                        
+                        <nav aria-label="Page navigation" class="d-flex justify-content-center mt-60">
+                            <ul class="pagination justify-content-center align-items-center">
+                                <li class="page-item">
+                                    <a class="page-link previous" href="javascript:void(0)" aria-label="Previous">
+                                        <img src="assets/images/icon/left-icon.png" alt="icon">
+                                    </a>
+                                </li>
+                                <li class="page-item"><a class="page-link" href="javascript:void(0)">01</a></li>
+                                <li class="page-item"><a class="page-link active" href="javascript:void(0)">02</a></li>
+                                <li class="page-item"><a class="page-link" href="javascript:void(0)">03</a></li>
+                                <li class="page-item"><a class="page-link" href="javascript:void(0)">04</a></li>
+                                <li class="page-item">
+                                    <a class="page-link next" href="javascript:void(0)" aria-label="Next">
+                                        <img src="assets/images/icon/right-icon.png" alt="icon">
+                                    </a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- All Tips Content In end -->
+
+{% endblock %}

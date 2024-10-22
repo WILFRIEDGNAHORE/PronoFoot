@@ -1,7 +1,6 @@
 from django.urls import path
-from . import views  # Remplace 'your_app' par le nom de ton application
+from . import views
 
 urlpatterns = [
-    path('', views.scrape_and_cache, name='scrape_and_cache'),  # Afficher les résultats du scraping
-    
+    path('', views.football_pronostics_view, name='football_pronostics'),
 ]
