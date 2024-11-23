@@ -53,7 +53,7 @@ def display_pronostics_Meilleur(request):
     pronostics_data = load_pronostics_data('meilleur_prono_foot_aujourdhui.json')
     
     if pronostics_data is None:
-        return render(request, 'pronostics_Meilleurs_prono_du_jour.html', {'error': 'Les données de pronostics sont introuvables.'})
+        return render(request, 'meilleur_prono_foot_aujourdhui.html', {'error': 'Les données de pronostics sont introuvables.'})
     
     # Paginate the pronostics data
     paginator = Paginator(pronostics_data, 10)  # Show 10 items per page

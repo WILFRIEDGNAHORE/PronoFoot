@@ -1,0 +1,408 @@
+[
+    {
+        "competition_name": "ITALIE – SERIE A",
+        "matches": [
+            {
+                "date": "16:00",
+                "host_team": "Verona",
+                "guest_team": "Inter",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "16",
+                    "25",
+                    "59",
+                    "17",
+                    "37",
+                    "46",
+                    "89",
+                    "74",
+                    "43",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "21:45",
+                "host_team": "Parma",
+                "guest_team": "Atalanta",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "25",
+                    "25",
+                    "50",
+                    "24",
+                    "35",
+                    "41",
+                    "91",
+                    "69",
+                    "42",
+                    "58",
+                    "42"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ALLEMAGNE – BUNDESLIGA",
+        "matches": [
+            {
+                "date": "19:30",
+                "host_team": "Eintracht Frankfurt",
+                "guest_team": "Werder Bremen",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "50",
+                    "26",
+                    "24",
+                    "38",
+                    "39",
+                    "23",
+                    "87",
+                    "71",
+                    "48",
+                    "66",
+                    "34"
+                ]
+            },
+            {
+                "date": "16:30",
+                "host_team": "Bayer Leverkusen",
+                "guest_team": "FC Heidenheim",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "67",
+                    "20",
+                    "13",
+                    "53",
+                    "31",
+                    "16",
+                    "86",
+                    "65",
+                    "41",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ESPAGNE – LALIGA",
+        "matches": [
+            {
+                "date": "22:00",
+                "host_team": "Celta Vigo",
+                "guest_team": "Barcelona",
+                "tip": "2 – gagne 1 des mi-temps",
+                "coef": [
+                    "28",
+                    "23",
+                    "49",
+                    "25",
+                    "33",
+                    "42",
+                    "89",
+                    "75",
+                    "45",
+                    "67",
+                    "33"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "TURQUIE – SUPER LIG",
+        "matches": [
+            {
+                "date": "18:00",
+                "host_team": "BB Bodrumspor",
+                "guest_team": "Galatasaray",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "20",
+                    "25",
+                    "55",
+                    "15",
+                    "36",
+                    "49",
+                    "89",
+                    "69",
+                    "45",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "BRÉSIL – SERIE A",
+        "matches": [
+            {
+                "date": "00:30",
+                "host_team": "Atletico Goianiense",
+                "guest_team": "Palmeiras",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "17",
+                    "20",
+                    "63",
+                    "15",
+                    "41",
+                    "44",
+                    "69",
+                    "42",
+                    "22",
+                    "40",
+                    "60"
+                ]
+            },
+            {
+                "date": "02:30",
+                "host_team": "Sao Paulo",
+                "guest_team": "Atletico Mineiro",
+                "tip": "1N – double chance",
+                "coef": [
+                    "50",
+                    "29",
+                    "21",
+                    "36",
+                    "44",
+                    "20",
+                    "70",
+                    "46",
+                    "22",
+                    "43",
+                    "57"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ANGLETERRE – PREMIER LEAGUE",
+        "matches": [
+            {
+                "date": "14:30",
+                "host_team": "Leicester",
+                "guest_team": "Chelsea",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "21",
+                    "25",
+                    "54",
+                    "20",
+                    "35",
+                    "45",
+                    "93",
+                    "72",
+                    "45",
+                    "62",
+                    "38"
+                ]
+            },
+            {
+                "date": "17:00",
+                "host_team": "Aston Villa",
+                "guest_team": "Crystal Palace",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "55",
+                    "28",
+                    "17",
+                    "42",
+                    "43",
+                    "15",
+                    "82",
+                    "55",
+                    "32",
+                    "61",
+                    "39"
+                ]
+            },
+            {
+                "date": "17:00",
+                "host_team": "Everton",
+                "guest_team": "Brentford",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "41",
+                    "31",
+                    "28",
+                    "31",
+                    "41",
+                    "28",
+                    "80",
+                    "55",
+                    "27",
+                    "63",
+                    "37"
+                ]
+            },
+            {
+                "date": "17:00",
+                "host_team": "Fulham",
+                "guest_team": "Wolves",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "55",
+                    "26",
+                    "19",
+                    "41",
+                    "43",
+                    "16",
+                    "89",
+                    "62",
+                    "42",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "17:00",
+                "host_team": "Arsenal",
+                "guest_team": "Nottingham Forest",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "61",
+                    "22",
+                    "17",
+                    "35",
+                    "37",
+                    "28",
+                    "81",
+                    "53",
+                    "36",
+                    "51",
+                    "49"
+                ]
+            },
+            {
+                "date": "17:00",
+                "host_team": "Bournemouth",
+                "guest_team": "Brighton",
+                "tip": "+1.5 buts",
+                "coef": [
+                    "41",
+                    "29",
+                    "30",
+                    "32",
+                    "36",
+                    "32",
+                    "89",
+                    "69",
+                    "40",
+                    "61",
+                    "39"
+                ]
+            },
+            {
+                "date": "19:30",
+                "host_team": "Manchester City",
+                "guest_team": "Tottenham",
+                "tip": "+2.5 buts",
+                "coef": [
+                    "58",
+                    "25",
+                    "17",
+                    "46",
+                    "32",
+                    "22",
+                    "94",
+                    "78",
+                    "52",
+                    "70",
+                    "30"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "PAYS-BAS – EREDIVISIE",
+        "matches": [
+            {
+                "date": "22:00",
+                "host_team": "PSV",
+                "guest_team": "Groningen",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "75",
+                    "18",
+                    "7",
+                    "66",
+                    "20",
+                    "14",
+                    "95",
+                    "73",
+                    "47",
+                    "58",
+                    "42"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ÉCOSSE – PREMIERSHIP",
+        "matches": [
+            {
+                "date": "17:00",
+                "host_team": "Rangers",
+                "guest_team": "Dundee Utd",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "70",
+                    "17",
+                    "13",
+                    "43",
+                    "39",
+                    "18",
+                    "92",
+                    "65",
+                    "42",
+                    "42",
+                    "58"
+                ]
+            },
+            {
+                "date": "21:45",
+                "host_team": "Hearts",
+                "guest_team": "Celtic",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "19",
+                    "66",
+                    "19",
+                    "32",
+                    "49",
+                    "90",
+                    "69",
+                    "41",
+                    "53",
+                    "47"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ARABIE SAOUDITE – SAUDI PRO LEAGUE",
+        "matches": [
+            {
+                "date": "19:00",
+                "host_team": "Al Khaleej",
+                "guest_team": "Al Hilal",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "20",
+                    "65",
+                    "15",
+                    "33",
+                    "52",
+                    "94",
+                    "72",
+                    "45",
+                    "46",
+                    "54"
+                ]
+            }
+        ]
+    }
+]

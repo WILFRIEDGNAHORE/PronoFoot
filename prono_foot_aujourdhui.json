@@ -1,0 +1,4185 @@
+[
+    {
+        "competition_name": "ITALIE – SERIE A",
+        "matches": [
+            {
+                "date": "19::00",
+                "host_team": "AC Milan",
+                "guest_team": "Juventus",
+                "tip": "1N – double chance",
+                "coef": [
+                    "42",
+                    "30",
+                    "28",
+                    "38",
+                    "40",
+                    "22",
+                    "77",
+                    "51",
+                    "31",
+                    "48",
+                    "52"
+                ]
+            },
+            {
+                "date": "16::00",
+                "host_team": "Verona",
+                "guest_team": "Inter",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "16",
+                    "25",
+                    "59",
+                    "17",
+                    "37",
+                    "46",
+                    "89",
+                    "74",
+                    "43",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "21::45",
+                "host_team": "Parma",
+                "guest_team": "Atalanta",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "25",
+                    "25",
+                    "50",
+                    "24",
+                    "35",
+                    "41",
+                    "91",
+                    "69",
+                    "42",
+                    "58",
+                    "42"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "ANGLETERRE – PREMIER LEAGUE",
+        "matches": [
+            {
+                "date": "19::30",
+                "host_team": "Manchester City",
+                "guest_team": "Tottenham",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "58",
+                    "25",
+                    "17",
+                    "46",
+                    "32",
+                    "22",
+                    "94",
+                    "78",
+                    "52",
+                    "70",
+                    "30"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Leicester",
+                "guest_team": "Chelsea",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "21",
+                    "25",
+                    "54",
+                    "20",
+                    "35",
+                    "45",
+                    "93",
+                    "72",
+                    "45",
+                    "62",
+                    "38"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Aston Villa",
+                "guest_team": "Crystal Palace",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "55",
+                    "28",
+                    "17",
+                    "42",
+                    "43",
+                    "15",
+                    "82",
+                    "55",
+                    "32",
+                    "61",
+                    "39"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Everton",
+                "guest_team": "Brentford",
+                "tip": "1N – double chance",
+                "coef": [
+                    "41",
+                    "31",
+                    "28",
+                    "31",
+                    "41",
+                    "28",
+                    "80",
+                    "55",
+                    "27",
+                    "63",
+                    "37"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Fulham",
+                "guest_team": "Wolves",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "55",
+                    "26",
+                    "19",
+                    "41",
+                    "43",
+                    "16",
+                    "89",
+                    "62",
+                    "42",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Arsenal",
+                "guest_team": "Nottingham Forest",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "61",
+                    "22",
+                    "17",
+                    "35",
+                    "37",
+                    "28",
+                    "81",
+                    "53",
+                    "36",
+                    "51",
+                    "49"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Bournemouth",
+                "guest_team": "Brighton",
+                "tip": "1 ou 2 – double chance",
+                "coef": [
+                    "41",
+                    "29",
+                    "30",
+                    "32",
+                    "36",
+                    "32",
+                    "89",
+                    "69",
+                    "40",
+                    "61",
+                    "39"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ALLEMAGNE – BUNDESLIGA",
+        "matches": [
+            {
+                "date": "16::30",
+                "host_team": "Borussia Dortmund",
+                "guest_team": "SC Freiburg",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "54",
+                    "24",
+                    "22",
+                    "40",
+                    "37",
+                    "23",
+                    "86",
+                    "62",
+                    "40",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "1899 Hoffenheim",
+                "guest_team": "RB Leipzig",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "28",
+                    "25",
+                    "47",
+                    "24",
+                    "38",
+                    "38",
+                    "87",
+                    "66",
+                    "43",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "VfL Wolfsburg",
+                "guest_team": "Union Berlin",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "39",
+                    "31",
+                    "30",
+                    "29",
+                    "44",
+                    "27",
+                    "71",
+                    "47",
+                    "27",
+                    "45",
+                    "55"
+                ]
+            },
+            {
+                "date": "19::30",
+                "host_team": "Eintracht Frankfurt",
+                "guest_team": "Werder Bremen",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "50",
+                    "26",
+                    "24",
+                    "38",
+                    "39",
+                    "23",
+                    "87",
+                    "71",
+                    "48",
+                    "66",
+                    "34"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "VfB Stuttgart",
+                "guest_team": "VfL Bochum",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "64",
+                    "23",
+                    "13",
+                    "48",
+                    "34",
+                    "18",
+                    "92",
+                    "68",
+                    "50",
+                    "67",
+                    "33"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "Bayer Leverkusen",
+                "guest_team": "FC Heidenheim",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "67",
+                    "20",
+                    "13",
+                    "53",
+                    "31",
+                    "16",
+                    "86",
+                    "65",
+                    "41",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "ESPAGNE – LALIGA",
+        "matches": [
+            {
+                "date": "17::15",
+                "host_team": "Atletico Madrid",
+                "guest_team": "Deportivo Alaves",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "66",
+                    "23",
+                    "11",
+                    "48",
+                    "41",
+                    "11",
+                    "82",
+                    "56",
+                    "26",
+                    "44",
+                    "56"
+                ]
+            },
+            {
+                "date": "22::00",
+                "host_team": "Celta Vigo",
+                "guest_team": "Barcelona",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "28",
+                    "23",
+                    "49",
+                    "25",
+                    "33",
+                    "42",
+                    "89",
+                    "75",
+                    "45",
+                    "67",
+                    "33"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Valencia",
+                "guest_team": "Betis",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "31",
+                    "33",
+                    "36",
+                    "25",
+                    "45",
+                    "30",
+                    "70",
+                    "42",
+                    "22",
+                    "47",
+                    "53"
+                ]
+            },
+            {
+                "date": "19::30",
+                "host_team": "Girona",
+                "guest_team": "Espanyol",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "55",
+                    "27",
+                    "18",
+                    "38",
+                    "48",
+                    "14",
+                    "68",
+                    "53",
+                    "37",
+                    "47",
+                    "53"
+                ]
+            },
+            {
+                "date": "19::30",
+                "host_team": "Las Palmas",
+                "guest_team": "Mallorca",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "29",
+                    "32",
+                    "39",
+                    "27",
+                    "39",
+                    "34",
+                    "69",
+                    "39",
+                    "21",
+                    "44",
+                    "56"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "BRÉSIL – SERIE A",
+        "matches": [
+            {
+                "date": "02::30",
+                "host_team": "Sao Paulo",
+                "guest_team": "Atletico Mineiro",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "50",
+                    "29",
+                    "21",
+                    "36",
+                    "44",
+                    "20",
+                    "70",
+                    "46",
+                    "22",
+                    "43",
+                    "57"
+                ]
+            },
+            {
+                "date": "00::30",
+                "host_team": "Atletico Goianiense",
+                "guest_team": "Palmeiras",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "17",
+                    "20",
+                    "63",
+                    "15",
+                    "41",
+                    "44",
+                    "69",
+                    "42",
+                    "22",
+                    "40",
+                    "60"
+                ]
+            },
+            {
+                "date": "00::30",
+                "host_team": "Juventude",
+                "guest_team": "Cuiaba",
+                "tip": "1N – double chance",
+                "coef": [
+                    "49",
+                    "31",
+                    "20",
+                    "34",
+                    "50",
+                    "16",
+                    "69",
+                    "48",
+                    "24",
+                    "47",
+                    "53"
+                ]
+            },
+            {
+                "date": "00::30",
+                "host_team": "Botafogo",
+                "guest_team": "Vitoria",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "64",
+                    "24",
+                    "12",
+                    "46",
+                    "43",
+                    "11",
+                    "77",
+                    "48",
+                    "29",
+                    "44",
+                    "56"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "AUTRICHE – BUNDESLIGA",
+        "matches": [
+            {
+                "date": "18::00",
+                "host_team": "Red Bull Salzburg",
+                "guest_team": "Lask Linz",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "53",
+                    "25",
+                    "22",
+                    "42",
+                    "37",
+                    "21",
+                    "89",
+                    "66",
+                    "36",
+                    "56",
+                    "44"
+                ]
+            },
+            {
+                "date": "18::00",
+                "host_team": "WSG Swarovski Tirol",
+                "guest_team": "Rapid Vienna",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "18",
+                    "28",
+                    "54",
+                    "20",
+                    "30",
+                    "50",
+                    "85",
+                    "60",
+                    "28",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "18::00",
+                "host_team": "Sturm Graz",
+                "guest_team": "Autriche Klagenfurt",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "64",
+                    "21",
+                    "15",
+                    "56",
+                    "28",
+                    "16",
+                    "92",
+                    "64",
+                    "42",
+                    "49",
+                    "51"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "FRANCE – LIGUE 1",
+        "matches": [
+            {
+                "date": "18::00",
+                "host_team": "Lens",
+                "guest_team": "Marseille",
+                "tip": "1 ou 2 – double chance",
+                "coef": [
+                    "41",
+                    "28",
+                    "31",
+                    "33",
+                    "37",
+                    "30",
+                    "78",
+                    "58",
+                    "38",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "22::00",
+                "host_team": "Reims",
+                "guest_team": "Lyon",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "32",
+                    "34",
+                    "34",
+                    "31",
+                    "38",
+                    "31",
+                    "90",
+                    "60",
+                    "37",
+                    "59",
+                    "41"
+                ]
+            },
+            {
+                "date": "20::00",
+                "host_team": "St Etienne",
+                "guest_team": "Montpellier",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "48",
+                    "29",
+                    "23",
+                    "34",
+                    "43",
+                    "23",
+                    "82",
+                    "57",
+                    "36",
+                    "55",
+                    "45"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "CROATIE – HNL",
+        "matches": [
+            {
+                "date": "18::45",
+                "host_team": "NK Dinamo Zagreb",
+                "guest_team": "HNK Rijeka",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "58",
+                    "26",
+                    "16",
+                    "44",
+                    "36",
+                    "20",
+                    "75",
+                    "53",
+                    "31",
+                    "37",
+                    "63"
+                ]
+            },
+            {
+                "date": "16::00",
+                "host_team": "NK Varazdin",
+                "guest_team": "NK Lokomotiva Zagreb",
+                "tip": "1N – double chance",
+                "coef": [
+                    "44",
+                    "31",
+                    "25",
+                    "36",
+                    "41",
+                    "23",
+                    "71",
+                    "40",
+                    "25",
+                    "41",
+                    "59"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ARGENTINE – LIGA PROFESIONAL",
+        "matches": [
+            {
+                "date": "02::45",
+                "host_team": "Huracan",
+                "guest_team": "Boca Juniors",
+                "tip": "N – match nul",
+                "coef": [
+                    "37",
+                    "36",
+                    "27",
+                    "28",
+                    "48",
+                    "24",
+                    "69",
+                    "40",
+                    "17",
+                    "35",
+                    "65"
+                ]
+            },
+            {
+                "date": "00::30",
+                "host_team": "Tigre",
+                "guest_team": "Instituto Cordoba",
+                "tip": "N – match nul",
+                "coef": [
+                    "40",
+                    "33",
+                    "27",
+                    "29",
+                    "43",
+                    "28",
+                    "82",
+                    "47",
+                    "24",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "PAYS-BAS – EREDIVISIE",
+        "matches": [
+            {
+                "date": "22::00",
+                "host_team": "PSV",
+                "guest_team": "Groningen",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "75",
+                    "18",
+                    "7",
+                    "66",
+                    "20",
+                    "14",
+                    "95",
+                    "73",
+                    "47",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "19::45",
+                "host_team": "Feyenoord",
+                "guest_team": "Heerenveen",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "65",
+                    "22",
+                    "13",
+                    "56",
+                    "31",
+                    "13",
+                    "95",
+                    "70",
+                    "45",
+                    "59",
+                    "41"
+                ]
+            },
+            {
+                "date": "22::00",
+                "host_team": "Fortuna Sittard",
+                "guest_team": "Twente",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "29",
+                    "28",
+                    "43",
+                    "25",
+                    "33",
+                    "42",
+                    "81",
+                    "65",
+                    "27",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "19::45",
+                "host_team": "Heracles",
+                "guest_team": "Waalwijk",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "52",
+                    "26",
+                    "22",
+                    "45",
+                    "32",
+                    "23",
+                    "91",
+                    "64",
+                    "49",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "17::30",
+                "host_team": "Go Ahead Eagles",
+                "guest_team": "Almere City FC",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "56",
+                    "26",
+                    "18",
+                    "46",
+                    "38",
+                    "16",
+                    "95",
+                    "73",
+                    "37",
+                    "40",
+                    "60"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "CHYPRE – 1. DIVISION",
+        "matches": [
+            {
+                "date": "19::00",
+                "host_team": "Omonia",
+                "guest_team": "Apollon Limassol",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "46",
+                    "28",
+                    "26",
+                    "36",
+                    "38",
+                    "26",
+                    "77",
+                    "52",
+                    "29",
+                    "48",
+                    "52"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Pafos FC",
+                "guest_team": "Apoel",
+                "tip": "1N – double chance",
+                "coef": [
+                    "43",
+                    "30",
+                    "27",
+                    "34",
+                    "40",
+                    "26",
+                    "73",
+                    "47",
+                    "29",
+                    "43",
+                    "57"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "RUSSIE – PREMIER LEAGUE",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "Spartak Moscow",
+                "guest_team": "Lokomotiv Moscow",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "36",
+                    "32",
+                    "32",
+                    "34",
+                    "36",
+                    "30",
+                    "79",
+                    "58",
+                    "36",
+                    "56",
+                    "44"
+                ]
+            },
+            {
+                "date": "11::00",
+                "host_team": "Orenburg",
+                "guest_team": "Zenit",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "24",
+                    "61",
+                    "16",
+                    "32",
+                    "52",
+                    "89",
+                    "67",
+                    "40",
+                    "57",
+                    "43"
+                ]
+            },
+            {
+                "date": "13::15",
+                "host_team": "CSKA Moscow",
+                "guest_team": "FC Rostov",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "51",
+                    "27",
+                    "22",
+                    "38",
+                    "41",
+                    "21",
+                    "76",
+                    "47",
+                    "29",
+                    "40",
+                    "60"
+                ]
+            },
+            {
+                "date": "15::30",
+                "host_team": "Khimki",
+                "guest_team": "Krasnodar",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "21",
+                    "26",
+                    "53",
+                    "22",
+                    "37",
+                    "41",
+                    "84",
+                    "55",
+                    "33",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ITALIE – SERIE B",
+        "matches": [
+            {
+                "date": "16::00",
+                "host_team": "Sassuolo",
+                "guest_team": "Salernitana",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "58",
+                    "26",
+                    "16",
+                    "46",
+                    "36",
+                    "18",
+                    "84",
+                    "57",
+                    "32",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "16::00",
+                "host_team": "Juve Stabia",
+                "guest_team": "Brescia",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "45",
+                    "29",
+                    "26",
+                    "38",
+                    "40",
+                    "22",
+                    "84",
+                    "60",
+                    "37",
+                    "59",
+                    "41"
+                ]
+            },
+            {
+                "date": "18::15",
+                "host_team": "Cesena",
+                "guest_team": "Reggiana",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "56",
+                    "27",
+                    "17",
+                    "41",
+                    "40",
+                    "19",
+                    "83",
+                    "54",
+                    "34",
+                    "45",
+                    "55"
+                ]
+            },
+            {
+                "date": "16::00",
+                "host_team": "Catanzaro",
+                "guest_team": "Mantova",
+                "tip": "1N – double chance",
+                "coef": [
+                    "50",
+                    "35",
+                    "15",
+                    "28",
+                    "59",
+                    "13",
+                    "75",
+                    "56",
+                    "34",
+                    "59",
+                    "41"
+                ]
+            },
+            {
+                "date": "16::00",
+                "host_team": "Carrarese",
+                "guest_team": "Pisa",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "25",
+                    "32",
+                    "43",
+                    "23",
+                    "39",
+                    "38",
+                    "74",
+                    "49",
+                    "26",
+                    "52",
+                    "48"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "SUISSE – SUPER LEAGUE",
+        "matches": [
+            {
+                "date": "19::00",
+                "host_team": "FC Luzern",
+                "guest_team": "BSC Young Boys",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "33",
+                    "33",
+                    "34",
+                    "33",
+                    "39",
+                    "28",
+                    "90",
+                    "63",
+                    "41",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "19::00",
+                "host_team": "Grasshopper-Club",
+                "guest_team": "FC Winterthur",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "56",
+                    "26",
+                    "18",
+                    "45",
+                    "36",
+                    "19",
+                    "87",
+                    "70",
+                    "43",
+                    "59",
+                    "41"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ÉCOSSE – PREMIERSHIP",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "Rangers",
+                "guest_team": "Dundee Utd",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "70",
+                    "17",
+                    "13",
+                    "43",
+                    "39",
+                    "18",
+                    "92",
+                    "65",
+                    "42",
+                    "42",
+                    "58"
+                ]
+            },
+            {
+                "date": "21::45",
+                "host_team": "Hearts",
+                "guest_team": "Celtic",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "19",
+                    "66",
+                    "19",
+                    "32",
+                    "49",
+                    "90",
+                    "69",
+                    "41",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "St Mirren",
+                "guest_team": "Aberdeen",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "30",
+                    "33",
+                    "37",
+                    "27",
+                    "38",
+                    "35",
+                    "77",
+                    "55",
+                    "34",
+                    "54",
+                    "46"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "St Johnstone",
+                "guest_team": "Kilmarnock",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "31",
+                    "28",
+                    "41",
+                    "28",
+                    "37",
+                    "35",
+                    "77",
+                    "53",
+                    "27",
+                    "51",
+                    "49"
+                ]
+            },
+            {
+                "date": "19::45",
+                "host_team": "Dundee",
+                "guest_team": "Hibernian",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "38",
+                    "32",
+                    "30",
+                    "36",
+                    "37",
+                    "27",
+                    "87",
+                    "64",
+                    "43",
+                    "63",
+                    "37"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Ross County",
+                "guest_team": "Motherwell",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "32",
+                    "31",
+                    "37",
+                    "27",
+                    "39",
+                    "34",
+                    "80",
+                    "59",
+                    "26",
+                    "58",
+                    "42"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "UKRAINE – PREMIER LEAGUE",
+        "matches": [
+            {
+                "date": "18::00",
+                "host_team": "Ingulets Petrove",
+                "guest_team": "Shakhter Donetsk",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "17",
+                    "18",
+                    "65",
+                    "15",
+                    "35",
+                    "50",
+                    "84",
+                    "61",
+                    "41",
+                    "35",
+                    "65"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "CHINE – FA CUP",
+        "matches": [
+            {
+                "date": "12::30",
+                "host_team": "Shandong Luneng",
+                "guest_team": "Shanghai SIPG FC",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "31",
+                    "24",
+                    "45",
+                    "22",
+                    "38",
+                    "40",
+                    "79",
+                    "66",
+                    "45",
+                    "60",
+                    "40"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ÉGYPTE – PREMIER LEAGUE",
+        "matches": [
+            {
+                "date": "20::00",
+                "host_team": "Zamalek SC",
+                "guest_team": "Al Masry",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "48",
+                    "27",
+                    "25",
+                    "38",
+                    "44",
+                    "18",
+                    "74",
+                    "49",
+                    "30",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "El Geish",
+                "guest_team": "Smouha SC",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "28",
+                    "35",
+                    "37",
+                    "24",
+                    "50",
+                    "26",
+                    "70",
+                    "43",
+                    "27",
+                    "45",
+                    "55"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "BELGIQUE – FIRST DIVISION A",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "Club Brugge",
+                "guest_team": "St Truiden",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "67",
+                    "21",
+                    "12",
+                    "52",
+                    "34",
+                    "14",
+                    "90",
+                    "68",
+                    "40",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "21::45",
+                "host_team": "Genk",
+                "guest_team": "Charleroi",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "63",
+                    "24",
+                    "13",
+                    "46",
+                    "36",
+                    "18",
+                    "80",
+                    "60",
+                    "38",
+                    "54",
+                    "46"
+                ]
+            },
+            {
+                "date": "19::15",
+                "host_team": "Standard Liege",
+                "guest_team": "Cercle Brugge",
+                "tip": "1N – double chance",
+                "coef": [
+                    "45",
+                    "33",
+                    "22",
+                    "34",
+                    "44",
+                    "22",
+                    "82",
+                    "58",
+                    "33",
+                    "52",
+                    "48"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "CZECH REPUBLIC – 1. LIGA",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "Slovacko",
+                "guest_team": "Mlada Boleslav",
+                "tip": "N – match nul",
+                "coef": [
+                    "40",
+                    "32",
+                    "28",
+                    "29",
+                    "54",
+                    "17",
+                    "76",
+                    "47",
+                    "25",
+                    "54",
+                    "46"
+                ]
+            },
+            {
+                "date": "20::00",
+                "host_team": "Hradec Kralove",
+                "guest_team": "Viktoria Plzen",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "30",
+                    "28",
+                    "42",
+                    "26",
+                    "39",
+                    "35",
+                    "85",
+                    "55",
+                    "26",
+                    "46",
+                    "54"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Sparta Praha",
+                "guest_team": "Teplice",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "68",
+                    "18",
+                    "14",
+                    "52",
+                    "35",
+                    "13",
+                    "90",
+                    "68",
+                    "37",
+                    "46",
+                    "54"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "FK Jablonec",
+                "guest_team": "Banik Ostrava",
+                "tip": "N – match nul",
+                "coef": [
+                    "38",
+                    "34",
+                    "28",
+                    "31",
+                    "40",
+                    "29",
+                    "88",
+                    "57",
+                    "37",
+                    "51",
+                    "49"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ROMANIA – SUPERLIGA",
+        "matches": [
+            {
+                "date": "21::30",
+                "host_team": "CFR 1907 Cluj",
+                "guest_team": "Rapid Bucuresti",
+                "tip": "1N – double chance",
+                "coef": [
+                    "43",
+                    "32",
+                    "25",
+                    "38",
+                    "39",
+                    "23",
+                    "77",
+                    "50",
+                    "27",
+                    "48",
+                    "52"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "AFC Hermannstadt",
+                "guest_team": "Universitatea Cluj",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "21",
+                    "34",
+                    "45",
+                    "18",
+                    "45",
+                    "37",
+                    "67",
+                    "33",
+                    "19",
+                    "36",
+                    "64"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ANGLETERRE – CHAMPIONSHIP",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "QPR",
+                "guest_team": "Stoke City",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "33",
+                    "34",
+                    "33",
+                    "24",
+                    "48",
+                    "28",
+                    "76",
+                    "46",
+                    "26",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Blackburn",
+                "guest_team": "Portsmouth",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "58",
+                    "26",
+                    "16",
+                    "43",
+                    "38",
+                    "19",
+                    "80",
+                    "54",
+                    "28",
+                    "52",
+                    "48"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "West Brom",
+                "guest_team": "Norwich",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "48",
+                    "29",
+                    "23",
+                    "36",
+                    "45",
+                    "19",
+                    "68",
+                    "44",
+                    "26",
+                    "46",
+                    "54"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Bristol City",
+                "guest_team": "Burnley",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "31",
+                    "35",
+                    "34",
+                    "28",
+                    "44",
+                    "28",
+                    "83",
+                    "49",
+                    "25",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Sheffield Wed",
+                "guest_team": "Cardiff",
+                "tip": "1N – double chance",
+                "coef": [
+                    "45",
+                    "31",
+                    "24",
+                    "36",
+                    "42",
+                    "22",
+                    "86",
+                    "52",
+                    "32",
+                    "47",
+                    "53"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Luton",
+                "guest_team": "Hull City",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "47",
+                    "25",
+                    "28",
+                    "30",
+                    "54",
+                    "16",
+                    "88",
+                    "64",
+                    "40",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Coventry",
+                "guest_team": "Sheffield Utd",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "34",
+                    "30",
+                    "36",
+                    "24",
+                    "45",
+                    "31",
+                    "85",
+                    "54",
+                    "25",
+                    "54",
+                    "46"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Oxford United",
+                "guest_team": "Middlesbrough",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "27",
+                    "26",
+                    "47",
+                    "22",
+                    "41",
+                    "37",
+                    "87",
+                    "52",
+                    "30",
+                    "47",
+                    "53"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Millwall",
+                "guest_team": "Sunderland",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "37",
+                    "30",
+                    "33",
+                    "31",
+                    "42",
+                    "27",
+                    "78",
+                    "49",
+                    "30",
+                    "42",
+                    "58"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Preston",
+                "guest_team": "Derby",
+                "tip": "1N – double chance",
+                "coef": [
+                    "41",
+                    "31",
+                    "28",
+                    "30",
+                    "45",
+                    "25",
+                    "71",
+                    "45",
+                    "20",
+                    "49",
+                    "51"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "FRANCE – LIGUE 2",
+        "matches": [
+            {
+                "date": "21::00",
+                "host_team": "Bastia",
+                "guest_team": "Lorient",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "28",
+                    "34",
+                    "38",
+                    "23",
+                    "43",
+                    "34",
+                    "76",
+                    "44",
+                    "24",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Paris FC",
+                "guest_team": "Annecy",
+                "tip": "1N – double chance",
+                "coef": [
+                    "52",
+                    "30",
+                    "18",
+                    "39",
+                    "39",
+                    "22",
+                    "86",
+                    "61",
+                    "36",
+                    "67",
+                    "33"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "SOUTH KOREA – K-LEAGUE 1 FINAL GROUP A",
+        "matches": [
+            {
+                "date": "07::00",
+                "host_team": "Ulsan Hyundai FC",
+                "guest_team": "Suwon City FC",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "56",
+                    "23",
+                    "21",
+                    "47",
+                    "35",
+                    "18",
+                    "87",
+                    "58",
+                    "32",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "07::00",
+                "host_team": "Gangwon FC",
+                "guest_team": "Pohang Steelers",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "51",
+                    "29",
+                    "20",
+                    "34",
+                    "44",
+                    "22",
+                    "82",
+                    "56",
+                    "33",
+                    "57",
+                    "43"
+                ]
+            },
+            {
+                "date": "07::00",
+                "host_team": "Sangju Sangmu FC",
+                "guest_team": "FC Seoul",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "47",
+                    "27",
+                    "26",
+                    "33",
+                    "44",
+                    "23",
+                    "69",
+                    "45",
+                    "26",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "PORTUGAL – FA CUP",
+        "matches": [
+            {
+                "date": "20::30",
+                "host_team": "Leixoes",
+                "guest_team": "SC Braga",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "28",
+                    "57",
+                    "15",
+                    "43",
+                    "42",
+                    "88",
+                    "67",
+                    "27",
+                    "51",
+                    "49"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Arouca",
+                "guest_team": "Farense",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "47",
+                    "28",
+                    "25",
+                    "38",
+                    "39",
+                    "23",
+                    "73",
+                    "43",
+                    "26",
+                    "42",
+                    "58"
+                ]
+            },
+            {
+                "date": "18::45",
+                "host_team": "Guimaraes",
+                "guest_team": "Leiria",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "76",
+                    "19",
+                    "5",
+                    "49",
+                    "41",
+                    "10",
+                    "81",
+                    "58",
+                    "27",
+                    "38",
+                    "62"
+                ]
+            },
+            {
+                "date": "16::00",
+                "host_team": "Alverca",
+                "guest_team": "Rio Ave",
+                "tip": "1N – double chance",
+                "coef": [
+                    "43",
+                    "31",
+                    "26",
+                    "28",
+                    "41",
+                    "31",
+                    "86",
+                    "53",
+                    "29",
+                    "45",
+                    "55"
+                ]
+            },
+            {
+                "date": "21::15",
+                "host_team": "Casa Pia",
+                "guest_team": "Chaves",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "48",
+                    "23",
+                    "29",
+                    "30",
+                    "57",
+                    "13",
+                    "82",
+                    "51",
+                    "26",
+                    "44",
+                    "56"
+                ]
+            },
+            {
+                "date": "14::00",
+                "host_team": "Sc Lusitania",
+                "guest_team": "Sao Joao Ver",
+                "tip": "1N – double chance",
+                "coef": [
+                    "41",
+                    "37",
+                    "22",
+                    "21",
+                    "63",
+                    "16",
+                    "72",
+                    "39",
+                    "17",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Lusitano Evora",
+                "guest_team": "Vilafranquense",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "26",
+                    "36",
+                    "38",
+                    "16",
+                    "60",
+                    "24",
+                    "71",
+                    "43",
+                    "18",
+                    "43",
+                    "57"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "ANGLETERRE – LEAGUE ONE",
+        "matches": [
+            {
+                "date": "14::30",
+                "host_team": "Bolton",
+                "guest_team": "Blackpool",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "47",
+                    "28",
+                    "25",
+                    "41",
+                    "36",
+                    "23",
+                    "88",
+                    "61",
+                    "37",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Barnsley",
+                "guest_team": "Wigan",
+                "tip": "1N – double chance",
+                "coef": [
+                    "47",
+                    "31",
+                    "22",
+                    "38",
+                    "37",
+                    "25",
+                    "88",
+                    "63",
+                    "39",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Shrewsbury",
+                "guest_team": "Birmingham",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "17",
+                    "68",
+                    "16",
+                    "34",
+                    "50",
+                    "89",
+                    "60",
+                    "38",
+                    "40",
+                    "60"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Peterborough",
+                "guest_team": "Reading",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "58",
+                    "27",
+                    "15",
+                    "43",
+                    "30",
+                    "27",
+                    "91",
+                    "73",
+                    "46",
+                    "71",
+                    "29"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Huddersfield",
+                "guest_team": "Charlton",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "52",
+                    "26",
+                    "22",
+                    "38",
+                    "40",
+                    "22",
+                    "88",
+                    "56",
+                    "34",
+                    "46",
+                    "54"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Stevenage",
+                "guest_team": "Leyton Orient",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "39",
+                    "30",
+                    "31",
+                    "33",
+                    "40",
+                    "27",
+                    "64",
+                    "42",
+                    "26",
+                    "41",
+                    "59"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Lincoln",
+                "guest_team": "Wycombe",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "31",
+                    "30",
+                    "39",
+                    "27",
+                    "43",
+                    "30",
+                    "71",
+                    "55",
+                    "28",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Mansfield",
+                "guest_team": "Bristol Rovers",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "54",
+                    "26",
+                    "20",
+                    "37",
+                    "43",
+                    "20",
+                    "82",
+                    "54",
+                    "31",
+                    "51",
+                    "49"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Burton Albion",
+                "guest_team": "Stockport",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "23",
+                    "29",
+                    "48",
+                    "22",
+                    "38",
+                    "40",
+                    "82",
+                    "52",
+                    "29",
+                    "59",
+                    "41"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Crawley Town",
+                "guest_team": "Rotherham",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "31",
+                    "30",
+                    "39",
+                    "25",
+                    "45",
+                    "30",
+                    "79",
+                    "50",
+                    "33",
+                    "54",
+                    "46"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Wrexham",
+                "guest_team": "Exeter",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "53",
+                    "26",
+                    "21",
+                    "34",
+                    "37",
+                    "29",
+                    "77",
+                    "53",
+                    "22",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Northampton",
+                "guest_team": "Cambridge United",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "43",
+                    "28",
+                    "29",
+                    "32",
+                    "44",
+                    "24",
+                    "80",
+                    "52",
+                    "27",
+                    "53",
+                    "47"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "ALLEMAGNE – 2. BUNDESLIGA",
+        "matches": [
+            {
+                "date": "21::30",
+                "host_team": "Hamburger SV",
+                "guest_team": "FC Schalke 04",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "54",
+                    "28",
+                    "18",
+                    "42",
+                    "35",
+                    "23",
+                    "88",
+                    "63",
+                    "44",
+                    "59",
+                    "41"
+                ]
+            },
+            {
+                "date": "14::00",
+                "host_team": "Hannover 96",
+                "guest_team": "SV Darmstadt 98",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "54",
+                    "25",
+                    "21",
+                    "43",
+                    "36",
+                    "21",
+                    "88",
+                    "69",
+                    "50",
+                    "62",
+                    "38"
+                ]
+            },
+            {
+                "date": "14::00",
+                "host_team": "Hertha Berlin",
+                "guest_team": "SSV Ulm 1846",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "50",
+                    "29",
+                    "21",
+                    "44",
+                    "34",
+                    "22",
+                    "87",
+                    "57",
+                    "34",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "14::00",
+                "host_team": "Fortuna Dusseldorf",
+                "guest_team": "SV Elversberg",
+                "tip": "1N – double chance",
+                "coef": [
+                    "43",
+                    "31",
+                    "26",
+                    "33",
+                    "45",
+                    "22",
+                    "88",
+                    "64",
+                    "39",
+                    "48",
+                    "52"
+                ]
+            },
+            {
+                "date": "14::00",
+                "host_team": "SpVgg Greuther Furth",
+                "guest_team": "Karlsruher SC",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "26",
+                    "34",
+                    "40",
+                    "25",
+                    "44",
+                    "31",
+                    "92",
+                    "68",
+                    "42",
+                    "63",
+                    "37"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "TURQUIE – SUPER LIG",
+        "matches": [
+            {
+                "date": "15::00",
+                "host_team": "Kayserispor",
+                "guest_team": "Fenerbahce",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "26",
+                    "59",
+                    "16",
+                    "36",
+                    "48",
+                    "89",
+                    "67",
+                    "44",
+                    "57",
+                    "43"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Gaziantep FK",
+                "guest_team": "Istanbul Basaksehir",
+                "tip": "N – match nul",
+                "coef": [
+                    "36",
+                    "35",
+                    "29",
+                    "25",
+                    "48",
+                    "27",
+                    "74",
+                    "46",
+                    "28",
+                    "57",
+                    "43"
+                ]
+            },
+            {
+                "date": "18::00",
+                "host_team": "BB Bodrumspor",
+                "guest_team": "Galatasaray",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "20",
+                    "25",
+                    "55",
+                    "15",
+                    "36",
+                    "49",
+                    "89",
+                    "69",
+                    "45",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "12::30",
+                "host_team": "Eyupspor",
+                "guest_team": "Rizespor",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "51",
+                    "25",
+                    "24",
+                    "37",
+                    "37",
+                    "26",
+                    "87",
+                    "63",
+                    "38",
+                    "54",
+                    "46"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "QATAR – QATAR STARS LEAGUE",
+        "matches": [
+            {
+                "date": "14::00",
+                "host_team": "Al-Arabi SC",
+                "guest_team": "Al-Duhail SC",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "26",
+                    "22",
+                    "52",
+                    "22",
+                    "34",
+                    "44",
+                    "95",
+                    "74",
+                    "49",
+                    "72",
+                    "28"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "Umm Salal",
+                "guest_team": "Al-Ahli Doha",
+                "tip": "N – match nul",
+                "coef": [
+                    "35",
+                    "36",
+                    "29",
+                    "30",
+                    "40",
+                    "30",
+                    "89",
+                    "63",
+                    "43",
+                    "75",
+                    "25"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "Qatar SC",
+                "guest_team": "Al-Shahaniya",
+                "tip": "1 ou 2 – double chance",
+                "coef": [
+                    "41",
+                    "27",
+                    "32",
+                    "28",
+                    "55",
+                    "17",
+                    "89",
+                    "76",
+                    "59",
+                    "74",
+                    "26"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "BULGARIE – FIRST PROFESSIONAL LEAGUE",
+        "matches": [
+            {
+                "date": "17::30",
+                "host_team": "Levski Sofia",
+                "guest_team": "Lokomotiv Sofia",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "70",
+                    "21",
+                    "9",
+                    "56",
+                    "33",
+                    "11",
+                    "73",
+                    "52",
+                    "30",
+                    "33",
+                    "67"
+                ]
+            },
+            {
+                "date": "12::30",
+                "host_team": "Arda Kardzhali",
+                "guest_team": "Lokomotiv Plovdiv",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "56",
+                    "29",
+                    "15",
+                    "38",
+                    "45",
+                    "17",
+                    "72",
+                    "48",
+                    "22",
+                    "47",
+                    "53"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Botev Plovdiv",
+                "guest_team": "Botev Vratsa",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "70",
+                    "21",
+                    "9",
+                    "50",
+                    "39",
+                    "11",
+                    "78",
+                    "48",
+                    "26",
+                    "34",
+                    "66"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "SLOVAQUIE – SUPER LIGA",
+        "matches": [
+            {
+                "date": "19::00",
+                "host_team": "MSK Zilina",
+                "guest_team": "Spartak Trnava",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "50",
+                    "28",
+                    "22",
+                    "38",
+                    "44",
+                    "18",
+                    "79",
+                    "56",
+                    "35",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "Dunajska Streda",
+                "guest_team": "Zemplin Michalovce",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "60",
+                    "24",
+                    "16",
+                    "46",
+                    "38",
+                    "16",
+                    "82",
+                    "60",
+                    "33",
+                    "49",
+                    "51"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "Dukla Banska Bystrica",
+                "guest_team": "AS Trencin",
+                "tip": "1N – double chance",
+                "coef": [
+                    "44",
+                    "31",
+                    "25",
+                    "36",
+                    "41",
+                    "23",
+                    "75",
+                    "48",
+                    "29",
+                    "57",
+                    "43"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "SERBIE – SUPER LIGA",
+        "matches": [
+            {
+                "date": "15::00",
+                "host_team": "Radnicki Nis",
+                "guest_team": "Cukaricki",
+                "tip": "1N – double chance",
+                "coef": [
+                    "42",
+                    "34",
+                    "24",
+                    "29",
+                    "41",
+                    "30",
+                    "80",
+                    "51",
+                    "28",
+                    "62",
+                    "38"
+                ]
+            },
+            {
+                "date": "18::00",
+                "host_team": "Jedinstvo Ub",
+                "guest_team": "Crvena Zvezda",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "22",
+                    "11",
+                    "67",
+                    "18",
+                    "37",
+                    "45",
+                    "87",
+                    "68",
+                    "47",
+                    "41",
+                    "59"
+                ]
+            },
+            {
+                "date": "16::00",
+                "host_team": "Spartak Subotica",
+                "guest_team": "Novi Pazar",
+                "tip": "1 ou 2 – double chance",
+                "coef": [
+                    "41",
+                    "29",
+                    "30",
+                    "29",
+                    "39",
+                    "32",
+                    "72",
+                    "49",
+                    "32",
+                    "52",
+                    "48"
+                ]
+            },
+            {
+                "date": "20::00",
+                "host_team": "Vojvodina",
+                "guest_team": "Tekstilac Odzaci",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "66",
+                    "18",
+                    "16",
+                    "48",
+                    "36",
+                    "16",
+                    "87",
+                    "63",
+                    "34",
+                    "40",
+                    "60"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "POLOGNE – EKSTRAKLASA",
+        "matches": [
+            {
+                "date": "15::45",
+                "host_team": "Lechia Gdansk",
+                "guest_team": "Pogon Szczecin",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "28",
+                    "26",
+                    "46",
+                    "23",
+                    "39",
+                    "38",
+                    "78",
+                    "52",
+                    "29",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "21::15",
+                "host_team": "Legia Warszawa",
+                "guest_team": "Cracovia Krakow",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "59",
+                    "22",
+                    "19",
+                    "39",
+                    "40",
+                    "21",
+                    "84",
+                    "58",
+                    "38",
+                    "56",
+                    "44"
+                ]
+            },
+            {
+                "date": "18::30",
+                "host_team": "Lech Poznan",
+                "guest_team": "GKS Katowice",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "62",
+                    "21",
+                    "17",
+                    "41",
+                    "37",
+                    "22",
+                    "92",
+                    "71",
+                    "42",
+                    "57",
+                    "43"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "HONGRIE – NB I",
+        "matches": [
+            {
+                "date": "19::30",
+                "host_team": "MOL Fehervar FC",
+                "guest_team": "Ujpest",
+                "tip": "1N – double chance",
+                "coef": [
+                    "49",
+                    "30",
+                    "21",
+                    "30",
+                    "50",
+                    "20",
+                    "82",
+                    "55",
+                    "32",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "MTK Budapest",
+                "guest_team": "Gyori Eto FC",
+                "tip": "1N – double chance",
+                "coef": [
+                    "45",
+                    "31",
+                    "24",
+                    "40",
+                    "40",
+                    "20",
+                    "85",
+                    "64",
+                    "39",
+                    "65",
+                    "35"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "GRÈCE – SUPER LEAGUE",
+        "matches": [
+            {
+                "date": "19::30",
+                "host_team": "Aris Thessalonikis",
+                "guest_team": "Volos NPS",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "59",
+                    "24",
+                    "17",
+                    "47",
+                    "37",
+                    "16",
+                    "84",
+                    "52",
+                    "25",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Lamia",
+                "guest_team": "OFI",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "25",
+                    "34",
+                    "41",
+                    "25",
+                    "45",
+                    "30",
+                    "80",
+                    "59",
+                    "34",
+                    "58",
+                    "42"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "JAPON – EMPERORS CUP",
+        "matches": [
+            {
+                "date": "07::00",
+                "host_team": "G-Osaka",
+                "guest_team": "Vissel Kobe",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "29",
+                    "30",
+                    "41",
+                    "27",
+                    "42",
+                    "31",
+                    "69",
+                    "47",
+                    "25",
+                    "46",
+                    "54"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "USA – MAJOR LEAGUE SOCCER PLAYOFF",
+        "matches": [
+            {
+                "date": "00::30",
+                "host_team": "New York City FC",
+                "guest_team": "New York Red Bulls",
+                "tip": "1N – double chance",
+                "coef": [
+                    "48",
+                    "33",
+                    "19",
+                    "29",
+                    "43",
+                    "28",
+                    "80",
+                    "56",
+                    "39",
+                    "65",
+                    "35"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ESPAGNE – LALIGA2",
+        "matches": [
+            {
+                "date": "19::30",
+                "host_team": "Cordoba",
+                "guest_team": "Zaragoza",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "36",
+                    "31",
+                    "33",
+                    "27",
+                    "39",
+                    "34",
+                    "78",
+                    "52",
+                    "31",
+                    "57",
+                    "43"
+                ]
+            },
+            {
+                "date": "22::00",
+                "host_team": "Malaga",
+                "guest_team": "Racing Santander",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "33",
+                    "29",
+                    "38",
+                    "27",
+                    "41",
+                    "32",
+                    "68",
+                    "50",
+                    "22",
+                    "51",
+                    "49"
+                ]
+            },
+            {
+                "date": "19::30",
+                "host_team": "Burgos",
+                "guest_team": "Eibar",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "38",
+                    "32",
+                    "30",
+                    "29",
+                    "46",
+                    "25",
+                    "77",
+                    "41",
+                    "26",
+                    "39",
+                    "61"
+                ]
+            },
+            {
+                "date": "17::15",
+                "host_team": "Granada CF",
+                "guest_team": "Cadiz",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "47",
+                    "27",
+                    "26",
+                    "39",
+                    "40",
+                    "21",
+                    "87",
+                    "67",
+                    "42",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Cartagena",
+                "guest_team": "Almeria",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "25",
+                    "25",
+                    "50",
+                    "20",
+                    "42",
+                    "38",
+                    "88",
+                    "61",
+                    "34",
+                    "55",
+                    "45"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "BOLIVIE – PRIMERA DIVISION-CLAUSURA",
+        "matches": [
+            {
+                "date": "02::00",
+                "host_team": "Royal Pari FC",
+                "guest_team": "Jorge Wilstermann",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "35",
+                    "33",
+                    "32",
+                    "23",
+                    "50",
+                    "27",
+                    "66",
+                    "40",
+                    "21",
+                    "40",
+                    "60"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "TUNISIE – LIGUE I",
+        "matches": [
+            {
+                "date": "15::00",
+                "host_team": "CS Sfaxien",
+                "guest_team": "US Tataouine",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "65",
+                    "27",
+                    "8",
+                    "46",
+                    "46",
+                    "8",
+                    "70",
+                    "40",
+                    "24",
+                    "24",
+                    "76"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "AS Gabes",
+                "guest_team": "CA Bizertin",
+                "tip": "1N – double chance",
+                "coef": [
+                    "44",
+                    "35",
+                    "21",
+                    "32",
+                    "49",
+                    "19",
+                    "51",
+                    "32",
+                    "18",
+                    "35",
+                    "65"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Js Omrane",
+                "guest_team": "Etoile S. Metlaoui",
+                "tip": "1N – double chance",
+                "coef": [
+                    "52",
+                    "31",
+                    "17",
+                    "34",
+                    "50",
+                    "16",
+                    "67",
+                    "43",
+                    "21",
+                    "34",
+                    "66"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "NIGÉRIA – NPFL",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "Lobi Stars",
+                "guest_team": "Kano Pillars FC",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "52",
+                    "25",
+                    "23",
+                    "34",
+                    "42",
+                    "24",
+                    "74",
+                    "47",
+                    "27",
+                    "42",
+                    "58"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Bendel Insurance FC",
+                "guest_team": "Kwara United",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "51",
+                    "28",
+                    "21",
+                    "32",
+                    "48",
+                    "20",
+                    "65",
+                    "35",
+                    "18",
+                    "35",
+                    "65"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Niger Tornadoes",
+                "guest_team": "Ikorodu City",
+                "tip": "1N – double chance",
+                "coef": [
+                    "57",
+                    "34",
+                    "9",
+                    "44",
+                    "35",
+                    "21",
+                    "83",
+                    "41",
+                    "21",
+                    "41",
+                    "59"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "BULGARIE – SECOND PROFESSIONAL LEAGUE",
+        "matches": [
+            {
+                "date": "14::30",
+                "host_team": "Sportist Svoge",
+                "guest_team": "Litex",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "39",
+                    "28",
+                    "33",
+                    "29",
+                    "48",
+                    "23",
+                    "72",
+                    "40",
+                    "20",
+                    "32",
+                    "68"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Minyor Pernik",
+                "guest_team": "Belasitsa Petrich",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "36",
+                    "31",
+                    "33",
+                    "26",
+                    "46",
+                    "28",
+                    "71",
+                    "39",
+                    "20",
+                    "36",
+                    "64"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Spartak Pleven",
+                "guest_team": "Lokomotiv G.O.",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "54",
+                    "24",
+                    "22",
+                    "40",
+                    "40",
+                    "20",
+                    "84",
+                    "47",
+                    "23",
+                    "39",
+                    "61"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Fratria",
+                "guest_team": "Dunav Ruse",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "32",
+                    "34",
+                    "34",
+                    "25",
+                    "48",
+                    "27",
+                    "83",
+                    "47",
+                    "26",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Nesebar",
+                "guest_team": "Marek",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "20",
+                    "27",
+                    "53",
+                    "17",
+                    "41",
+                    "42",
+                    "86",
+                    "54",
+                    "24",
+                    "49",
+                    "51"
+                ]
+            },
+            {
+                "date": "14::30",
+                "host_team": "Yantra 2019",
+                "guest_team": "Strumska Slava",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "59",
+                    "25",
+                    "16",
+                    "44",
+                    "44",
+                    "12",
+                    "77",
+                    "48",
+                    "25",
+                    "41",
+                    "59"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "AZERBAÏDJAN – PREMIER LEAGUE",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "Neftchi Baku",
+                "guest_team": "Zira",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "30",
+                    "33",
+                    "37",
+                    "25",
+                    "46",
+                    "29",
+                    "72",
+                    "41",
+                    "24",
+                    "40",
+                    "60"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Sabail",
+                "guest_team": "Qarabag",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "20",
+                    "65",
+                    "15",
+                    "33",
+                    "52",
+                    "94",
+                    "72",
+                    "45",
+                    "46",
+                    "54"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "COSTA RICA – PRIMERA DIVISION APERTURA",
+        "matches": [
+            {
+                "date": "04::00",
+                "host_team": "LD Alajuelense",
+                "guest_team": "Puntarenas FC",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "75",
+                    "19",
+                    "6",
+                    "54",
+                    "38",
+                    "8",
+                    "88",
+                    "59",
+                    "38",
+                    "43",
+                    "57"
+                ]
+            },
+            {
+                "date": "00::00",
+                "host_team": "Santos De Guapiles",
+                "guest_team": "Sporting San Jose",
+                "tip": "1 ou 2 – double chance",
+                "coef": [
+                    "43",
+                    "25",
+                    "32",
+                    "30",
+                    "41",
+                    "29",
+                    "73",
+                    "47",
+                    "28",
+                    "46",
+                    "54"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "MOROCCO – BOTOLA PRO",
+        "matches": [
+            {
+                "date": "21::00",
+                "host_team": "Renaissance Berkane",
+                "guest_team": "Hassania Agadir",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "57",
+                    "28",
+                    "15",
+                    "38",
+                    "46",
+                    "16",
+                    "67",
+                    "40",
+                    "19",
+                    "33",
+                    "67"
+                ]
+            },
+            {
+                "date": "17::00",
+                "host_team": "Ittihad Tanger",
+                "guest_team": "Moghreb Tetouan",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "49",
+                    "29",
+                    "22",
+                    "34",
+                    "51",
+                    "15",
+                    "61",
+                    "39",
+                    "15",
+                    "45",
+                    "55"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "AUSTRALIE – A-LEAGUE MEN",
+        "matches": [
+            {
+                "date": "10::35",
+                "host_team": "Sydney FC",
+                "guest_team": "Western Sydney",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "49",
+                    "25",
+                    "26",
+                    "40",
+                    "36",
+                    "24",
+                    "90",
+                    "67",
+                    "42",
+                    "65",
+                    "35"
+                ]
+            },
+            {
+                "date": "08::00",
+                "host_team": "Brisbane Roar FC",
+                "guest_team": "Adelaide United FC",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "29",
+                    "30",
+                    "41",
+                    "27",
+                    "48",
+                    "25",
+                    "85",
+                    "67",
+                    "49",
+                    "71",
+                    "29"
+                ]
+            },
+            {
+                "date": "04::30",
+                "host_team": "Wellington Phoenix",
+                "guest_team": "Melbourne Victory FC",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "30",
+                    "29",
+                    "41",
+                    "29",
+                    "39",
+                    "32",
+                    "80",
+                    "52",
+                    "34",
+                    "55",
+                    "45"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "GÉORGIE – EROVNULI LIGA",
+        "matches": [
+            {
+                "date": "16::00",
+                "host_team": "FC Dila Gori",
+                "guest_team": "Dinamo Tbilisi",
+                "tip": "1N – double chance",
+                "coef": [
+                    "45",
+                    "32",
+                    "23",
+                    "35",
+                    "43",
+                    "22",
+                    "82",
+                    "52",
+                    "24",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "12::00",
+                "host_team": "Kolkheti Poti",
+                "guest_team": "Torpedo Kutaisi",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "18",
+                    "30",
+                    "52",
+                    "19",
+                    "37",
+                    "44",
+                    "86",
+                    "64",
+                    "38",
+                    "65",
+                    "35"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "IRAN – FA CUP",
+        "matches": [
+            {
+                "date": "15::15",
+                "host_team": "Esteghlal Khuzestan",
+                "guest_team": "Paykan",
+                "tip": "1N – double chance",
+                "coef": [
+                    "51",
+                    "36",
+                    "13",
+                    "36",
+                    "46",
+                    "18",
+                    "69",
+                    "44",
+                    "26",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "SLOVÉNIE – PRVA LIGA",
+        "matches": [
+            {
+                "date": "18::30",
+                "host_team": "NK Domzale",
+                "guest_team": "Nafta",
+                "tip": "1N – double chance",
+                "coef": [
+                    "50",
+                    "30",
+                    "20",
+                    "30",
+                    "56",
+                    "14",
+                    "87",
+                    "55",
+                    "30",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "GRÈCE – SUPER LEAGUE 2 GROUP A",
+        "matches": [
+            {
+                "date": "15::00",
+                "host_team": "Kavala",
+                "guest_team": "Larisa",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "15",
+                    "30",
+                    "55",
+                    "15",
+                    "39",
+                    "46",
+                    "67",
+                    "41",
+                    "26",
+                    "43",
+                    "57"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "PORTUGAL – LIGA PORTUGAL 2",
+        "matches": [
+            {
+                "date": "17::30",
+                "host_team": "Feirense",
+                "guest_team": "Maritimo",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "30",
+                    "35",
+                    "35",
+                    "27",
+                    "42",
+                    "31",
+                    "80",
+                    "43",
+                    "25",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "13::00",
+                "host_team": "Portimonense",
+                "guest_team": "Benfica B",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "29",
+                    "33",
+                    "38",
+                    "24",
+                    "45",
+                    "31",
+                    "87",
+                    "67",
+                    "37",
+                    "64",
+                    "36"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "MONTENEGRO – 1. CFL",
+        "matches": [
+            {
+                "date": "15::00",
+                "host_team": "Jedinstvo Bijelo Polje",
+                "guest_team": "Buducnost Podgorica",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "20",
+                    "23",
+                    "57",
+                    "17",
+                    "38",
+                    "45",
+                    "80",
+                    "45",
+                    "24",
+                    "35",
+                    "65"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "FK Decic",
+                "guest_team": "FK Petrovac",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "45",
+                    "29",
+                    "26",
+                    "34",
+                    "45",
+                    "21",
+                    "63",
+                    "40",
+                    "21",
+                    "41",
+                    "59"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Mornar",
+                "guest_team": "FK Bokelj",
+                "tip": "1 ou 2 – double chance",
+                "coef": [
+                    "41",
+                    "28",
+                    "31",
+                    "31",
+                    "42",
+                    "27",
+                    "75",
+                    "47",
+                    "23",
+                    "50",
+                    "50"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "GALLES – PREMIER LEAGUE",
+        "matches": [
+            {
+                "date": "16::30",
+                "host_team": "Haverfordwest County",
+                "guest_team": "Bala Town",
+                "tip": "1N – double chance",
+                "coef": [
+                    "43",
+                    "37",
+                    "20",
+                    "35",
+                    "47",
+                    "18",
+                    "74",
+                    "48",
+                    "32",
+                    "49",
+                    "51"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "Caernarfon Town",
+                "guest_team": "Barry Town",
+                "tip": "1 ou 2 – double chance",
+                "coef": [
+                    "47",
+                    "23",
+                    "30",
+                    "33",
+                    "46",
+                    "21",
+                    "84",
+                    "67",
+                    "42",
+                    "67",
+                    "33"
+                ]
+            },
+            {
+                "date": "16::30",
+                "host_team": "Cardiff Metropolitan",
+                "guest_team": "Aberystwyth Town",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "62",
+                    "24",
+                    "14",
+                    "44",
+                    "45",
+                    "11",
+                    "89",
+                    "71",
+                    "39",
+                    "54",
+                    "46"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "TURQUIE – 1. LIG",
+        "matches": [
+            {
+                "date": "18::00",
+                "host_team": "Genclerbirligi",
+                "guest_team": "Ankaragucu",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "32",
+                    "29",
+                    "39",
+                    "23",
+                    "43",
+                    "34",
+                    "74",
+                    "46",
+                    "26",
+                    "53",
+                    "47"
+                ]
+            },
+            {
+                "date": "12::30",
+                "host_team": "Yeni Malatyaspor",
+                "guest_team": "Istanbulspor AS",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "21",
+                    "16",
+                    "63",
+                    "15",
+                    "31",
+                    "54",
+                    "95",
+                    "85",
+                    "32",
+                    "20",
+                    "80"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Boluspor",
+                "guest_team": "Sanliurfaspor",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "57",
+                    "23",
+                    "20",
+                    "33",
+                    "49",
+                    "18",
+                    "75",
+                    "47",
+                    "20",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "12::30",
+                "host_team": "Keciorengucu",
+                "guest_team": "Manisa FK",
+                "tip": "1N – double chance",
+                "coef": [
+                    "44",
+                    "31",
+                    "25",
+                    "33",
+                    "40",
+                    "27",
+                    "80",
+                    "43",
+                    "22",
+                    "58",
+                    "42"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "COLOMBIE – PRIMERA B CLAUSURA PLAYOFF GROUP A",
+        "matches": [
+            {
+                "date": "23::00",
+                "host_team": "Huila",
+                "guest_team": "Cucuta",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "37",
+                    "31",
+                    "32",
+                    "26",
+                    "43",
+                    "31",
+                    "67",
+                    "40",
+                    "19",
+                    "45",
+                    "55"
+                ]
+            },
+            {
+                "date": "23::00",
+                "host_team": "Union Magdalena",
+                "guest_team": "Valledupar",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "59",
+                    "24",
+                    "17",
+                    "39",
+                    "40",
+                    "21",
+                    "72",
+                    "47",
+                    "25",
+                    "30",
+                    "70"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ARABIE SAOUDITE – SAUDI PRO LEAGUE",
+        "matches": [
+            {
+                "date": "15::20",
+                "host_team": "Al-Raed",
+                "guest_team": "Al-Orobah FC",
+                "tip": "1N – double chance",
+                "coef": [
+                    "44",
+                    "31",
+                    "25",
+                    "31",
+                    "48",
+                    "21",
+                    "77",
+                    "56",
+                    "36",
+                    "56",
+                    "44"
+                ]
+            },
+            {
+                "date": "17::15",
+                "host_team": "Al-Wehda Club",
+                "guest_team": "Al-Taawon",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "25",
+                    "29",
+                    "46",
+                    "23",
+                    "39",
+                    "38",
+                    "87",
+                    "65",
+                    "38",
+                    "63",
+                    "37"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "HONDURAS – LIGA NACIONAL-APERTURA",
+        "matches": [
+            {
+                "date": "01::15",
+                "host_team": "Lobos UPNFM",
+                "guest_team": "CD Real Sociedad",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "56",
+                    "27",
+                    "17",
+                    "32",
+                    "50",
+                    "18",
+                    "84",
+                    "49",
+                    "30",
+                    "52",
+                    "48"
+                ]
+            },
+            {
+                "date": "23::00",
+                "host_team": "CD Marathon",
+                "guest_team": "Genesis Fc",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "54",
+                    "28",
+                    "18",
+                    "40",
+                    "41",
+                    "19",
+                    "82",
+                    "57",
+                    "37",
+                    "44",
+                    "56"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "SLOVÉNIE – 2. DIVISION",
+        "matches": [
+            {
+                "date": "17::00",
+                "host_team": "Rudar Velenje",
+                "guest_team": "ND Gorica",
+                "tip": "2 – victoire à l’extérieur",
+                "coef": [
+                    "22",
+                    "28",
+                    "50",
+                    "19",
+                    "39",
+                    "42",
+                    "73",
+                    "55",
+                    "31",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "NK Tabor Sezana",
+                "guest_team": "Jadran Dekani",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "53",
+                    "29",
+                    "18",
+                    "39",
+                    "40",
+                    "21",
+                    "87",
+                    "58",
+                    "37",
+                    "55",
+                    "45"
+                ]
+            },
+            {
+                "date": "14::00",
+                "host_team": "Nk Bistrica",
+                "guest_team": "Aluminij",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "32",
+                    "31",
+                    "37",
+                    "33",
+                    "34",
+                    "33",
+                    "90",
+                    "72",
+                    "53",
+                    "69",
+                    "31"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "NK Brinje Grosuplje",
+                "guest_team": "Beltinci",
+                "tip": "1N – double chance",
+                "coef": [
+                    "49",
+                    "31",
+                    "20",
+                    "38",
+                    "39",
+                    "23",
+                    "78",
+                    "43",
+                    "24",
+                    "50",
+                    "50"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "ND Bilje",
+                "guest_team": "Tolmin",
+                "tip": "1N – double chance",
+                "coef": [
+                    "47",
+                    "30",
+                    "23",
+                    "34",
+                    "44",
+                    "22",
+                    "83",
+                    "57",
+                    "39",
+                    "56",
+                    "44"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "N/A",
+        "matches": []
+    },
+    {
+        "competition_name": "INDONÉSIE – LIGA 1",
+        "matches": [
+            {
+                "date": "10::30",
+                "host_team": "Barito Putera",
+                "guest_team": "Persita Tangerang",
+                "tip": "N – match nul",
+                "coef": [
+                    "39",
+                    "32",
+                    "29",
+                    "31",
+                    "45",
+                    "24",
+                    "72",
+                    "54",
+                    "37",
+                    "54",
+                    "46"
+                ]
+            },
+            {
+                "date": "10::30",
+                "host_team": "Persik Kediri",
+                "guest_team": "PSIS Semarang",
+                "tip": "1 – victoire à domicile",
+                "coef": [
+                    "51",
+                    "29",
+                    "20",
+                    "37",
+                    "42",
+                    "21",
+                    "72",
+                    "50",
+                    "30",
+                    "47",
+                    "53"
+                ]
+            },
+            {
+                "date": "14::00",
+                "host_team": "Martapura FC",
+                "guest_team": "Bali United Pusam",
+                "tip": "N – match nul",
+                "coef": [
+                    "40",
+                    "31",
+                    "29",
+                    "30",
+                    "35",
+                    "35",
+                    "89",
+                    "73",
+                    "53",
+                    "69",
+                    "31"
+                ]
+            }
+        ]
+    },
+    {
+        "competition_name": "ALLEMAGNE – 3. LIGA",
+        "matches": [
+            {
+                "date": "15::00",
+                "host_team": "Hansa Rostock",
+                "guest_team": "Arminia Bielefeld",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "33",
+                    "33",
+                    "34",
+                    "29",
+                    "41",
+                    "30",
+                    "86",
+                    "60",
+                    "32",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Alemannia Aachen",
+                "guest_team": "TSV 1860 Munich",
+                "tip": "N – match nul",
+                "coef": [
+                    "36",
+                    "35",
+                    "29",
+                    "31",
+                    "36",
+                    "33",
+                    "76",
+                    "50",
+                    "27",
+                    "58",
+                    "42"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "SC Verl",
+                "guest_team": "VfB Stuttgart II",
+                "tip": "1N – double chance",
+                "coef": [
+                    "50",
+                    "31",
+                    "19",
+                    "36",
+                    "46",
+                    "18",
+                    "85",
+                    "50",
+                    "35",
+                    "54",
+                    "46"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Dynamo Dresden",
+                "guest_team": "FC Saarbrucken",
+                "tip": "1N – double chance",
+                "coef": [
+                    "45",
+                    "32",
+                    "23",
+                    "38",
+                    "34",
+                    "28",
+                    "80",
+                    "52",
+                    "39",
+                    "60",
+                    "40"
+                ]
+            },
+            {
+                "date": "17::30",
+                "host_team": "SpVgg Unterhaching",
+                "guest_team": "SV Wehen",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "26",
+                    "32",
+                    "42",
+                    "21",
+                    "40",
+                    "39",
+                    "84",
+                    "60",
+                    "39",
+                    "68",
+                    "32"
+                ]
+            },
+            {
+                "date": "15::00",
+                "host_team": "Rot-Weiss Essen",
+                "guest_team": "SV Sandhausen",
+                "tip": "N2 – double chance",
+                "coef": [
+                    "33",
+                    "34",
+                    "33",
+                    "24",
+                    "43",
+                    "33",
+                    "82",
+                    "65",
+                    "43",
+                    "66",
+                    "34"
+                ]
+            }
+        ]
+    }
+]

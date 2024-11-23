@@ -13,7 +13,8 @@
 <section class="banner-section inner-banner all-tips">
     <div class="overlay">
         <div class="shape-area">
-            
+            <img src="assets/images/banner-obj-1.png" class="obj-1" alt="image">
+            <img src="assets/images/banner-obj-2.png" class="obj-2" alt="image">
         </div>
         <div class="banner-content d-flex align-items-center">
             <div class="container">
@@ -24,7 +25,7 @@
                             <div class="breadcrumb-area">
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb d-flex align-items-center">
-                                        <li class="breadcrumb-item"><a href="{% url 'home'%}">Home</a></li>
+                                        <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
                                         <li class="breadcrumb-item active" aria-current="page">Pronostic Aujourdhui</li>
                                     </ol>
                                 </nav>
@@ -46,6 +47,9 @@
                 
                 Nous proposons également des pronostics de football dans différentes catégories, telles que la victoire de l’équipe à domicile, la victoire de l’équipe visiteuse, des buts en première mi-temps, plus de 1,5 buts, plus de 2,5 buts, les deux équipes marquent, moins de 2,5 buts et moins de 3,5 buts dans le match.</p>
 
+            <!-- New card addition -->
+            
+            
         </div>
         
     </div>
@@ -53,7 +57,7 @@
 
 <!-- All Tips Content In start -->
 <section class="all-tips-content">
-    <div class="overlay pt-130">
+    <div class="overlay pt-120">
         <div class="container">
             <div class="row justify-content-between">
                 
@@ -94,9 +98,9 @@
                     <div class="sports">
                         <p><strong>Match :</strong> {{ match.host_team }} vs {{ match.guest_team }}</p> <!-- Affiche les équipes -->
                     </div>
-                    <!-- <div class="btn-area text-center">
+                    <div class="btn-area text-center">
                         <a href="match-betting.html" class="cmn-btn mdr">Select Match</a>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         {% endfor %}
@@ -122,6 +126,12 @@
     </nav>
 {% endif %}
 
+
+
+
+                        
+                        
+                        
                     </div>
                 </div>
             </div>
