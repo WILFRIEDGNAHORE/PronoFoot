@@ -1,31 +1,13 @@
-/*============================================ 
-# Template Name: Bitips
-# Version: 1.0
-# Date: 11/12/2021
-# Author: pixelaxis
-# Author URI: https://themeforest.net/user/pixelaxis/portfolio
-# Developed By: Pranto
-# Description: Prediction Tips & Tipster Platform HTML Template
-============================================*/
-/*============================================ 
-======== Table of Css Content =========
-# Typography
-# Normalize 
-# Global style
-# Header Area
-# Banner Area
-# Section Area
-# Footer Area
-============================================*/
+
 @import url("https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&amp;display=swap");
 :root {
   --body-font: "Jost", sans-serif;
-  --body-color: #070044;
-  --bg-color: #7924c7;
-  --para-color: #f7f4ff;
-  --para-alt-color: #b2b4e1;
-  --hover-color: #00ff66;
-  --hover-alt-color: #5ac4ff;
+  --body-color: #002b00;
+  --bg-color: #f77f00;    
+  --para-color: #ffffff;
+  --para-alt-color: #d9d9d9;
+  --hover-color: #00b34d;
+  --hover-alt-color: #ff8500;
 }
 
 .collapsing {
@@ -38,7 +20,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  background-color: var(--body-color);
+  background-color: #002b00;
   font-size: 18px;
   line-height: 30px;
   padding: 0;
@@ -91,7 +73,7 @@ h3 > a:hover,
 h4 > a:hover,
 h5 > a:hover,
 h6 > a:hover {
-  color: var(--body-color);
+  color: #002b00;
 }
 
 a,
@@ -289,7 +271,7 @@ label {
 }
 
 .sub-title {
-  color: var(--hover-color);
+  color: #00b34d;
   margin-bottom: 30px;
 }
 
@@ -357,7 +339,7 @@ label {
   }
   .header-section {
     box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.3);
-    background-color: #2d0572;
+    background-color: #002b00;
   }
 }
 
@@ -384,7 +366,7 @@ label {
 }
 
 *::-webkit-scrollbar-track {
-  background: #00003e;
+  background: #002b00;
 }
 
 *::-webkit-scrollbar {
@@ -402,7 +384,7 @@ label {
   right: 30px;
   width: 45px;
   height: 45px;
-  background-color: var(--hover-color);
+  background-color: #00b34d;
   border-radius: 5px;
   color: #fff;
   line-height: 45px;
@@ -417,11 +399,11 @@ label {
 .scrollToTop.active {
   bottom: 30px;
   transform: translateY(0%);
-  color: var(--body-color);
+  color: #002b00;
 }
 
 .scrollToTop:hover {
-  color: var(--body-color);
+  color: #002b00;
 }
 
 .preloader {
@@ -496,9 +478,9 @@ label {
   padding: 10px 30px;
   font-weight: 600;
   text-align: center;
-  background: var(--bg-color);
+  background: #002b00;
   color: var(--bs-white);
-  border: 1px solid var(--bg-color);
+  border: 1px solid #002b00;
   transition: 0.3s;
   border-radius: 50px;
 }
@@ -514,8 +496,8 @@ label {
 }
 
 .cmn-btn.second:hover {
-  background: var(--bg-color);
-  border: 1px solid var(--bg-color);
+  background: #f77f00;
+  border: 1px solid #f77f00;
 }
 
 .alt-btn {
@@ -526,8 +508,8 @@ label {
 }
 
 .alt-btn:hover {
-  background: var(--bg-color);
-  border-color: var(--bg-color);
+  background: #f77f00;
+  border-color: #f77f00;
 }
 
 @keyframes spin {
@@ -596,7 +578,7 @@ label {
   width: 100%;
   z-index: 999;
   box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.3);
-  background-color: #2d0572;
+  background-color: #002b00;
 }
 
 .header-section .navbar-toggler {
@@ -610,7 +592,7 @@ label {
 }
 
 .header-section .navbar-toggler i {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .header-section .navbar {
@@ -629,13 +611,13 @@ label {
 
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover,
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .dropdown-item:hover {
-  color: var(--hover-color);
+  color: #00b34d;
   transition: 0.3s;
 }
 
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active,
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .dropdown-item.active {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.dropdown-toggle {
@@ -652,7 +634,7 @@ label {
 }
 
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .dropdown-menu {
-  background-color: var(--body-color);
+  background-color: #002b00;
 }
 
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .dropdown-menu li a {
@@ -662,9 +644,9 @@ label {
 }
 
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .dropdown-menu li a:hover {
-  background: var(--hover-color);
+  background: #00b34d;
   transition: 0.3s;
-  color: var(--body-color);
+  color: #002b00;
 }
 
 .header-section .navbar .navbar-collapse .navbar-nav .nav-item .dropdown-menu .dropend .dropdown-menu {
@@ -772,7 +754,7 @@ label {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #2f007f;
+  color: #002b00;
 }
 
 .header-section.user-dashboard .navbar-collapse .right-area .single-item.user-area .user-btn {
@@ -833,7 +815,7 @@ label {
 
 .header-section.user-dashboard .navbar-collapse .right-area .single-item.setting-area .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -842,12 +824,12 @@ label {
 }
 
 .header-section.user-dashboard .navbar-collapse .right-area .single-item.setting-area .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .header-section.user-dashboard .navbar-collapse .right-area .single-item.setting-area .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .header-section.user-dashboard .navbar-collapse .right-area .single-item.notifications-area .notifications-btn {
@@ -887,7 +869,7 @@ label {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #070044;
+  color: #002b00;
   margin-left: 10px;
   border-radius: 26px;
 }
@@ -1006,7 +988,7 @@ label {
 }
 
 .banner-section .overlay {
-  background-color: #2f007f;
+  background-color: #f77f00;
   background-image: url(../images/banner-overlay.png), url(../images/index-bg.png);
   background-repeat: no-repeat;
   background-position: right bottom -1px, top;
@@ -1188,7 +1170,7 @@ label {
 }
 
 .banner-section.match-betting .overlay .banner-content .head-area h5 {
-  color: #5ac4ff;
+  color: #ff8500;
   margin: 20px 0 40px;
 }
 
@@ -1248,7 +1230,7 @@ label {
 .banner-section.match-betting .overlay .sports .vs h3 {
   margin-top: 0;
   text-transform: uppercase;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .banner-section.match-betting .overlay .sports .mid-area .countdown {
@@ -1478,7 +1460,7 @@ label {
 
 .banner-section.become-tipster .overlay .banner-content .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -1487,12 +1469,12 @@ label {
 }
 
 .banner-section.become-tipster .overlay .banner-content .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .banner-section.become-tipster .overlay .banner-content .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .banner-section.become-tipster .overlay .banner-content .cmn-btn {
@@ -1508,7 +1490,7 @@ label {
 }
 
 .banner-section.become-tipster .overlay .banner-content .privacy a {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .banner-section.user-dashboard .overlay {
@@ -1652,7 +1634,7 @@ label {
 }
 
 .log-reg .modal-content .form-area .forget a {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .log-reg .modal-content .form-area .cmn-btn {
@@ -1725,7 +1707,7 @@ label {
 }
 
 .log-reg .modal-content .bottom-area span {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .log-reg .modal-content .regMod .single-input {
@@ -1773,7 +1755,7 @@ label {
 }
 
 .usermessage .modal-content .modal-body aside .input-area {
-  background: var(--body-color);
+  background: #002b00;
   padding: 15px;
   border-radius: 5px;
 }
@@ -1903,7 +1885,7 @@ label {
 }
 
 .usermessage .modal-content .modal-body footer textarea {
-  background: var(--body-color);
+  background: #002b00;
   min-height: 100px;
   border: none;
   color: var(--bs-white);
@@ -1943,7 +1925,7 @@ label {
 
 .footer-section .newsletter form .form-group button {
   border-radius: 50%;
-  background-color: #7924c7;
+  background-color: #f77f00;
   min-width: 40px;
   min-height: 40px;
 }
@@ -1971,13 +1953,13 @@ label {
 }
 
 .footer-section .menu-item .footer-link li a:hover {
-  color: var(--hover-color);
+  color: #00b34d;
   transition: 0.3s;
 }
 
 .footer-section .copyright {
   padding: 30px;
-  background: var(--body-color);
+  background: #002b00;
   border-radius: 10px 10px 0px 0px;
   margin-top: 30px;
   display: flex;
@@ -1986,7 +1968,7 @@ label {
 }
 
 .footer-section .copyright .copy-area a {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .footer-section .copyright .copy-area .auth {
@@ -2006,7 +1988,7 @@ label {
 }
 
 .footer-section .copyright .social-link a i {
-  color: #5ac4ff;
+  color: #ff8500;
   transition: 0.3s;
 }
 
@@ -2035,7 +2017,7 @@ label {
 }
 
 .counter-section .single-area p {
-  color: var(--hover-alt-color);
+  color: #ff8500;
 }
 
 .counter-section.about {
@@ -2050,7 +2032,7 @@ label {
   height: 100%;
   border-radius: 10px;
   left: 5%;
-  background-image: linear-gradient(0deg, #070044 0%, #3d2fac 99%);
+  background-image: linear-gradient(0deg, #002b00 0%, #3d2fac 99%);
   z-index: -1;
 }
 
@@ -2092,11 +2074,11 @@ label {
 }
 
 .top-tipsters .single-area .main-content .roi-profit .roi h6 {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .top-tipsters .single-area .main-content .roi-profit .profit h6 {
-  color: var(--hover-alt-color);
+  color: #ff8500;
 }
 
 .top-tipsters .single-area .main-content .btn-area {
@@ -2140,8 +2122,8 @@ label {
   border-radius: 50%;
   width: 90px;
   height: 90px;
-  background: #7924c7;
-  border: 7px solid #070044;
+  background: #f77f00;
+  border: 7px solid #002b00;
 }
 
 .how-it-works .mid-area {
@@ -2206,7 +2188,7 @@ label {
   border-width: 5px;
   right: -15px;
   bottom: 20px;
-  background: #7924c7;
+  background: #f77f00;
   border-color: #3d329b;
 }
 
@@ -2298,13 +2280,13 @@ label {
 }
 
 .tips-and-events .tips-single .mid-content .tip-heading h5 {
-  color: var(--hover-color);
+  color: #00b34d;
   margin-left: 10px;
   margin-top: 0;
 }
 
 .tips-and-events .tips-single .mid-content .date-name h6 {
-  color: var(--hover-alt-color);
+  color: #ff8500;
   margin-bottom: 19px;
   margin-top: 0;
 }
@@ -2368,7 +2350,7 @@ label {
 
 .tips-and-events .events-single .heading-area h5 {
   text-transform: uppercase;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .tips-and-events .events-single .bottom-area span {
@@ -2478,7 +2460,7 @@ label {
 
 .best-tipster .single-item .left-area .review-profile h6 {
   margin: 15px 0 8px;
-  color: var(--hover-alt-color);
+  color: #ff8500;
 }
 
 .best-tipster .single-item .left-area .review-profile .review i {
@@ -2505,7 +2487,7 @@ label {
 }
 
 .best-tipster .single-item .left-area .mid-content .item-total .single h6 {
-  color: var(--hover-alt-color);
+  color: #ff8500;
 }
 
 .best-tipster .single-item .left-area .mid-content .item-total .single span {
@@ -2520,7 +2502,7 @@ label {
 }
 
 .best-tipster .single-item .right-area h5 {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .best-tipster .single-item .right-area p {
@@ -2550,11 +2532,11 @@ label {
 .faqs-section .faq-bg {
   padding-top: 40px;
   border-radius: 10px;
-  background-image: linear-gradient(0deg, #070044 0%, #2d237b 99%);
+  background-image: linear-gradient(0deg, #002b00 0%, #2d237b 99%);
 }
 
 .faqs-section .section-header a {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .faqs-section .accordion {
@@ -2663,7 +2645,7 @@ label {
 }
 
 .faqs-section.support .nav .cmn-btn.active {
-  background: var(--bg-color);
+  background: #f77f00;
   border-color: transparent;
 }
 
@@ -2810,7 +2792,7 @@ label {
 .all-tips-content .sidebar .single-sidebar .single-input {
   border: 1px solid #483f90;
   border-radius: 10px;
-  background-color: var(--body-color);
+  background-color: #002b00;
   display: flex;
   align-items: center;
 }
@@ -2820,14 +2802,14 @@ label {
 }
 
 .all-tips-content .sidebar .single-sidebar .single-input input {
-  background-color: var(--body-color);
+  background-color: #002b00;
   border: none;
   border-radius: 10px;
   color: var(--bs-white);
 }
 
 .all-tips-content .sidebar .single-sidebar .btn-area {
-  border: 1px solid #5ac4ff;
+  border: 1px solid #ff8500;
   border-radius: 10px;
   background-color: #221a62;
   color: var(--para-color);
@@ -2883,7 +2865,7 @@ label {
 }
 
 .all-tips-content .sidebar .single-sidebar .checkbox-single input:checked ~ .checkmark {
-  border: 1px solid var(--hover-alt-color);
+  border: 1px solid #ff8500;
 }
 
 .all-tips-content .sidebar .single-sidebar .checkbox-single input:checked ~ .checkmark:after {
@@ -2906,7 +2888,7 @@ label {
 
 .all-tips-content .sidebar .single-sidebar .nice-select {
   border-radius: 10px;
-  background-color: var(--body-color);
+  background-color: #002b00;
   border-color: transparent;
   display: flex;
   align-items: center;
@@ -2925,7 +2907,7 @@ label {
 
 .all-tips-content .sidebar .single-sidebar .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -2934,23 +2916,23 @@ label {
 }
 
 .all-tips-content .sidebar .single-sidebar .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .all-tips-content .sidebar .single-sidebar .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .all-tips-content .right-area .heading-area {
   border-radius: 10px;
-  background-color: #221a62;
+  background-color: #f77f00;
   padding: 30px;
   margin-bottom: 40px;
 }
 
 .all-tips-content .right-area .heading-area h4 span {
-  color: var(--hover-color);
+  color: #00b34d;
   font-size: inherit;
   font-weight: inherit;
 }
@@ -2961,12 +2943,12 @@ label {
 
 .all-tips-content .right-area .heading-area .bottom-item .single-input {
   border-radius: 10px;
-  background-color: var(--body-color);
+  background-color: #002b00;
 }
 
 .all-tips-content .right-area .heading-area .bottom-item .nice-select {
   border-radius: 10px;
-  background-color: var(--body-color);
+  background-color: #002b00;
   border-color: transparent;
   display: flex;
   align-items: center;
@@ -2986,7 +2968,7 @@ label {
 
 .all-tips-content .right-area .heading-area .bottom-item .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -2995,17 +2977,17 @@ label {
 }
 
 .all-tips-content .right-area .heading-area .bottom-item .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .all-tips-content .right-area .heading-area .bottom-item .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .all-tips-content .right-area .single-item {
   border-radius: 20px;
-  background-color: #221a62;
+  background-color: #f77f00;
   padding: 30px;
   border: 1px solid #5e549a;
   margin-top: 30px;
@@ -3054,7 +3036,7 @@ label {
   align-items: center;
   justify-content: space-between;
   border-radius: 10px;
-  background-color: #2d237b;
+  background-color: #ff4d00;
   padding: 10px;
 }
 
@@ -3089,7 +3071,7 @@ label {
 .all-tips-content .right-area .single-item .mid-area .sports .vs h4 {
   margin-top: 0;
   text-transform: uppercase;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .all-tips-content .right-area .single-item .mid-area .btn-area {
@@ -3118,7 +3100,7 @@ label {
 }
 
 .pagination .page-item .page-link.active, .pagination .page-item .page-link:hover {
-  background: var(--bg-color);
+  background: #f77f00;
 }
 
 .pagination .page-item .page-link.previous {
@@ -3130,12 +3112,12 @@ label {
 }
 
 .ui-datepicker.ui-widget-content {
-  background-color: var(--body-color);
+  background-color: #002b00;
   border: 1px solid #483f90;
 }
 
 .ui-datepicker .ui-datepicker-header {
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -3146,7 +3128,7 @@ label {
 .ui-datepicker .ui-button.ui-state-disabled:hover,
 .ui-datepicker .ui-button.ui-state-disabled:active {
   border: 1px solid #483f90;
-  background: var(--body-color);
+  background: #002b00;
   text-align: center;
   color: var(--para-color);
 }
@@ -3154,7 +3136,7 @@ label {
 .ui-datepicker .ui-state-highlight,
 .ui-datepicker .ui-state-highlight,
 .ui-datepicker .ui-widget-header .ui-state-highlight {
-  background: var(--bg-color);
+  background: #f77f00;
   border: 1px solid #483f90;
 }
 
@@ -3170,8 +3152,8 @@ label {
 .ui-datepicker a.ui-button:active,
 .ui-datepicker .ui-button:active,
 .ui-datepicker .ui-button.ui-state-active:hover {
-  background: var(--hover-alt-color);
-  border-color: var(--hover-alt-color);
+  background: #ff8500;
+  border-color: #ff8500;
 }
 
 .match-betting-head {
@@ -3182,7 +3164,7 @@ label {
 
 .match-betting-head .nice-select {
   border-radius: 10px;
-  background-color: var(--body-color);
+  background-color: #002b00;
   border-color: transparent;
   display: flex;
   align-items: center;
@@ -3202,7 +3184,7 @@ label {
 
 .match-betting-head .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -3211,12 +3193,12 @@ label {
 }
 
 .match-betting-head .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .match-betting-head .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .match-betting-head .btn-area i {
@@ -3287,7 +3269,7 @@ label {
 .match-betting-head.find-tipster .top-content .range-input .ui-slider-handle.ui-state-default {
   width: 15px;
   height: 15px;
-  background: var(--hover-color);
+  background: #00b34d;
   box-shadow: 0px 4px 4px rgba(53, 78, 133, 0.3);
   border-radius: 20px;
   border: none;
@@ -3384,7 +3366,7 @@ label {
 }
 
 .match-betting-content .single-item .mid-area .roi-profit .roi h6 {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .match-betting-content .single-item .mid-area .roi-profit .profit {
@@ -3409,7 +3391,7 @@ label {
 }
 
 .match-betting-content .single-item .mid-area .roi-profit .profit h6 {
-  color: var(--hover-alt-color);
+  color: #ff8500;
 }
 
 .match-betting-content .single-item .mid-area .roi-profit .rate h6 {
@@ -3457,7 +3439,7 @@ label {
 }
 
 .match-betting-content .single-item .last-area .last-top .single-radio .amount {
-  color: var(--hover-color);
+  color: #00b34d;
   margin-left: 5px;
 }
 
@@ -3491,12 +3473,12 @@ label {
 
 .match-betting-content .single-item .last-area .last-top .single-radio input:checked ~ .checkmark {
   background-color: transparent;
-  border: 1px solid var(--hover-color);
+  border: 1px solid #00b34d;
 }
 
 .match-betting-content .single-item .last-area .last-top .single-radio input:checked ~ .checkmark::after {
   display: block;
-  background: var(--hover-color);
+  background: #00b34d;
 }
 
 .match-betting-content .single-item .last-area .last-top .cmn-btn {
@@ -3612,7 +3594,7 @@ label {
 .match-betting-content.dashboard .single-item .last-area .last-top .buy {
   background: transparent;
   border: 1px solid #5e549a;
-  color: var(--hover-color);
+  color: #00b34d;
   width: 80%;
   margin: auto;
   margin-top: 30px;
@@ -3677,7 +3659,7 @@ label {
 }
 
 .paymentModal .single-radio .amount {
-  color: var(--hover-color);
+  color: #00b34d;
   margin-left: 5px;
 }
 
@@ -3710,17 +3692,17 @@ label {
 }
 
 .paymentModal .single-radio input:checked ~ .title-item {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .paymentModal .single-radio input:checked ~ .checkmark {
   background-color: transparent;
-  border: 1px solid var(--hover-color);
+  border: 1px solid #00b34d;
 }
 
 .paymentModal .single-radio input:checked ~ .checkmark::after {
   display: block;
-  background: var(--hover-color);
+  background: #00b34d;
 }
 
 .paymentModal h6 {
@@ -3824,7 +3806,7 @@ label {
 }
 
 .tipster-profile-content .profile-banner-area .main-content .top-area .btn-area .cmn-btn {
-  background: #5ac4ff;
+  background: #ff8500;
   color: #2f007f;
   border: none;
 }
@@ -3851,7 +3833,7 @@ label {
 }
 
 .tipster-profile-content .profile-banner-area .main-content .mid-area h6 {
-  color: var(--hover-color);
+  color: #00b34d;
   margin-bottom: 10px;
 }
 
@@ -3881,7 +3863,7 @@ label {
   content: "";
   width: 100%;
   height: 1px;
-  background: var(--hover-color);
+  background: #00b34d;
   left: 0;
   bottom: -20px;
   transition: all 0.3s;
@@ -3899,7 +3881,7 @@ label {
 }
 
 .tipster-profile-content .main-tab-content .date-area {
-  color: var(--hover-color);
+  color: #00b34d;
   margin: 40px 0 30px;
 }
 
@@ -3921,7 +3903,7 @@ label {
 .tipster-profile-content .main-tab-content .single-area {
   border: 1px solid #5b70ba;
   border-radius: 10px;
-  background-color: #070044;
+  background-color: #002b00;
   padding: 20px;
   margin-bottom: 20px;
   display: flex;
@@ -3934,17 +3916,17 @@ label {
 
 .tipster-profile-content .main-tab-content .single-area .left-area .flag p {
   margin-left: 5px;
-  color: #b2b4e1;
+  color: #d9d9d9;
 }
 
 .tipster-profile-content .main-tab-content .single-area .left-area span {
-  color: #b2b4e1;
+  color: #d9d9d9;
   margin-top: 10px;
 }
 
 .tipster-profile-content .main-tab-content .single-area .right-area span {
   background-color: #062647;
-  color: var(--hover-color);
+  color: #00b34d;
   border-radius: 20px;
   padding: 5px 20px;
   margin-bottom: 15px;
@@ -4072,7 +4054,7 @@ label {
 }
 
 .tipster-profile-content .main-tab-content .sidebar .single-radio .amount {
-  color: var(--hover-color);
+  color: #00b34d;
   margin-left: 5px;
 }
 
@@ -4105,17 +4087,17 @@ label {
 }
 
 .tipster-profile-content .main-tab-content .sidebar .single-radio input:checked ~ .title-item {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .tipster-profile-content .main-tab-content .sidebar .single-radio input:checked ~ .checkmark {
   background-color: transparent;
-  border: 1px solid var(--hover-color);
+  border: 1px solid #00b34d;
 }
 
 .tipster-profile-content .main-tab-content .sidebar .single-radio input:checked ~ .checkmark::after {
   display: block;
-  background: var(--hover-color);
+  background: #00b34d;
 }
 
 .tipster-profile-content .main-tab-content .statistics-single {
@@ -4165,7 +4147,7 @@ label {
 
 .tipster-profile-content .main-tab-content .statistics-single .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -4174,12 +4156,12 @@ label {
 }
 
 .tipster-profile-content .main-tab-content .statistics-single .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .tipster-profile-content .main-tab-content .statistics-single .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .tipster-profile-content .main-tab-content .statistics-single .table {
@@ -4307,7 +4289,7 @@ label {
 }
 
 .contact-section .form-content .single-input input, .contact-section .form-content .single-input textarea {
-  background-color: var(--body-color);
+  background-color: #002b00;
   border: none;
   border-radius: 10px;
   color: var(--bs-white);
@@ -4316,7 +4298,7 @@ label {
 
 .contact-section .form-content .single-input .nice-select {
   border-radius: 10px;
-  background-color: var(--body-color);
+  background-color: #002b00;
   border-color: transparent;
   display: flex;
   align-items: center;
@@ -4336,7 +4318,7 @@ label {
 
 .contact-section .form-content .single-input .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -4345,12 +4327,12 @@ label {
 }
 
 .contact-section .form-content .single-input .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .contact-section .form-content .single-input .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .contact-section .form-content button {
@@ -4411,7 +4393,7 @@ label {
 }
 
 .invite-friends .social-box .social-link a i {
-  color: #5ac4ff;
+  color: #ff8500;
   transition: 0.3s;
 }
 
@@ -4501,7 +4483,7 @@ label {
 
 .become-tipster-section .reg-area .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -4510,12 +4492,12 @@ label {
 }
 
 .become-tipster-section .reg-area .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .become-tipster-section .reg-area .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .become-tipster-section .reg-area .cmn-btn {
@@ -4531,7 +4513,7 @@ label {
 }
 
 .become-tipster-section .reg-area .privacy a {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .user-dashboard-content {
@@ -4611,7 +4593,7 @@ label {
   border-radius: 50%;
   width: 14px;
   height: 14px;
-  background: #00FF66;
+  background: #00b34d;
   left: -20px;
   z-index: 1;
 }
@@ -4643,7 +4625,7 @@ label {
 }
 
 .user-dashboard-content .main-tab-btn .cmn-btn:hover, .user-dashboard-content .main-tab-btn .cmn-btn.active {
-  background: var(--bg-color);
+  background: #f77f00;
   border-color: transparent;
 }
 
@@ -4677,7 +4659,7 @@ label {
   height: 25px;
   border-radius: 50%;
   right: -10px;
-  background: #7924c7;
+  background: #f77f00;
 }
 
 .user-dashboard-content .find-best-tipster .single-item .single-title {
@@ -4709,7 +4691,7 @@ label {
   width: 100%;
   left: 0;
   height: 1px;
-  background: var(--hover-color);
+  background: #00b34d;
   bottom: 0;
 }
 
@@ -4777,7 +4759,7 @@ label {
 
 .user-dashboard-content .tab-single .single-box .single-input .input-area .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -4786,12 +4768,12 @@ label {
 }
 
 .user-dashboard-content .tab-single .single-box .single-input .input-area .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .user-dashboard-content .tab-single .single-box .single-input .input-area .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .user-dashboard-content .tab-single .single-box .btn-area {
@@ -5023,17 +5005,17 @@ label {
 }
 
 .user-dashboard-content .tab-single.payment .single-radio input:checked ~ .title-item {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .user-dashboard-content .tab-single.payment .single-radio input:checked ~ .checkmark {
   background-color: transparent;
-  border: 1px solid var(--hover-color);
+  border: 1px solid #00b34d;
 }
 
 .user-dashboard-content .tab-single.payment .single-radio input:checked ~ .checkmark::after {
   display: block;
-  background: var(--hover-color);
+  background: #00b34d;
 }
 
 .user-dashboard-content .table-area .tab-content {
@@ -5047,7 +5029,7 @@ label {
 }
 
 .user-dashboard-content .table-area .cmn-btn.active {
-  background: var(--bg-color);
+  background: #f77f00;
   border-color: transparent;
 }
 
@@ -5174,7 +5156,7 @@ label {
   width: 40px;
   height: 40px;
   background: #C2A9FF;
-  color: var(--body-color);
+  color: #002b00;
   border-radius: 20px;
   margin-right: 15px;
   display: flex;
@@ -5204,11 +5186,11 @@ label {
 }
 
 .create-tipster-profile .nav .nav-link.active {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .create-tipster-profile .nav .nav-link.active span {
-  background: var(--hover-color);
+  background: #00b34d;
 }
 
 .create-tipster-profile .tab-content {
@@ -5336,7 +5318,7 @@ label {
 }
 
 .create-tipster-profile .tab-content .main-content .introduce .form-area input, .create-tipster-profile .tab-content .main-content .introduce .form-area textarea {
-  background-color: var(--body-color);
+  background-color: #002b00;
   border: none;
   border-radius: 5px;
   color: var(--bs-white);
@@ -5431,7 +5413,7 @@ label {
 .post-tips-area .main-content .top-content .sports .vs h1 {
   margin-top: 0;
   text-transform: uppercase;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .post-tips-area .form-parameters h5 {
@@ -5460,7 +5442,7 @@ label {
 
 .post-tips-area .form-parameters .nice-select {
   border-radius: 10px;
-  background-color: var(--body-color);
+  background-color: #002b00;
   border-color: transparent;
   display: flex;
   align-items: center;
@@ -5480,7 +5462,7 @@ label {
 
 .post-tips-area .form-parameters .nice-select .list {
   width: 100%;
-  background: var(--body-color);
+  background: #002b00;
   border: 1px solid #483f90;
 }
 
@@ -5489,12 +5471,12 @@ label {
 }
 
 .post-tips-area .form-parameters .nice-select .list .option:hover {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .post-tips-area .form-parameters .nice-select .list .focus {
   background-color: transparent;
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .post-tips-area .modal-dialog {
@@ -5587,7 +5569,7 @@ label {
 }
 
 .buyers-support-section .section-header a {
-  color: var(--hover-color);
+  color: #00b34d;
 }
 
 .buyers-support-section .section-img {
@@ -5638,7 +5620,7 @@ label {
 }
 
 .buyers-support-section .bottom-content .right .social-link a i {
-  color: #5ac4ff;
+  color: #ff8500;
   transition: 0.3s;
 }
 

@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="{% static 'css/plugin/slick.css' %}">
     <link rel="stylesheet" href="{% static 'css/arafat-font.css' %}">
     <link rel="stylesheet" href="{% static 'css/plugin/animate.css' %}">
-    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <link rel="stylesheet" href="{% static 'css/styless.css' %}">
     
 </head>
 
@@ -32,6 +32,47 @@
 
     {%block content %}
     {% endblock %}
+
+
+    <footer class="footer-section">
+        <div class="container pt-120">
+            
+            <div class="footer-bottom-area pt-120">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="menu-item">
+                            <a href="{% url 'home'%}" class="logo">
+                                <img src="{% static 'images/logo.png' %}" alt="logo">
+                            </a>
+                            <ul class="footer-link">
+                                <!-- <li><a href="{% url 'home'%}">Home</a></li> -->
+                                <!-- <li><a href="about.html">About</a></li> -->
+                                <!-- <li><a href="support-help.html">Support</a></li> -->
+                                <!-- <li><a href="contact.html">Contact</a></li> -->
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="copyright">
+                            <div class="copy-area">
+                                <p> Copyright © <a href="*">Prono-Foot365-gratuit</a> | Designed by
+                                    <a href="https://raspoutine225.pythonanywhere.com/" class="auth">GnahoreWilfried</a>
+                                </p>
+                            </div>
+                            <!--  
+                            <div class="social-link d-flex align-items-center">
+                                <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
+                                <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
+                                <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
 
 
@@ -51,5 +92,5 @@
 </body>
 
 
-<!-- Mirrored from pixner.net/bitips/main/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 06 Oct 2024 18:29:37 GMT -->
+
 </html>

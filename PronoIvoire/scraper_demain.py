@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # URL à scraper
-url = 'https://pronosticsfootball365.com/pronostics-football-aujourdhui/'
+url = 'https://pronosticsfootball365.com/pronostics-football-pour-demain/'
 
 # Envoyer une requête pour récupérer le contenu de la page
 response = requests.get(url)
@@ -67,7 +67,7 @@ if response.status_code == 200:
         all_data.append(competition_data)
 
     # Enregistrer les données dans un fichier JSON
-    with open('prono_foot_aujourdhui.json', 'w', encoding='utf-8') as f:
+    with open('prono_foot_demain.json', 'w', encoding='utf-8') as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
 
     print("Les données ont été enregistrées dans prono_foot_aujourdhui.json")

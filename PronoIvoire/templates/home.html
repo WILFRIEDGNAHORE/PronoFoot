@@ -8,55 +8,52 @@
 
     {%block content %}
     <style>
-        /* Card styling */
-        .card-bg-scale {
-            overflow: hidden;
-            position: relative;
-            border-radius: 10px;
-            transition: transform 0.5s ease-in-out;
-        }
-        
-        /* Background image zoom effect on hover */
-        .card-bg-scale:hover {
-            transform: scale(1.05); /* Slight zoom on hover */
-        }
-        
-        /* Styling for the background image inside the card */
-        .card-bg-scale::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url("{% static 'images/about-banner.png' %}");
-            background-size: cover;
-            background-position: center;
-            transition: transform 0.5s ease-in-out; /* Smooth transition */
-            z-index: 0; /* Ensure the image is behind the text */
-        }
-        
-        /* Zoom in on the background image when hovering over the card */
-        .card-bg-scale:hover::before {
-            transform: scale(1.1); /* Zoom effect */
-        }
-        
-        /* Ensure text is on top of the background image */
-        .card-img-overlay {
-            position: relative;
-            z-index: 1;
-            background: rgba(0, 0, 0, 0.5); /* Dark overlay for text readability */
-            border-radius: 10px;
-        }
+        /* Styling des cartes */
+.card-bg-scale {
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+    transition: transform 0.5s ease-in-out;
+}
 
-        .row {
+/* Utilisation de la variable CSS pour définir l'image de fond */
+.card-bg-scale::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: var(--bg-image);
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.5s ease-in-out;
+    z-index: 0;
+}
+
+/* Effet de zoom au survol */
+.card-bg-scale:hover::before {
+    transform: scale(1.1);
+}
+
+/* Texte au-dessus de l'image */
+.card-img-overlay {
+    position: relative;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+/* Marges et espacements */
+.row {
     margin-right: 0;
     margin-left: 0;
 }
 
 .col-md-4 {
-    padding: 15px; /* Add padding between columns */
+    padding: 15px;
 }
+
         </style>
     <!-- start preloader -->
     <div class="preloader" id="preloader"></div>
@@ -94,7 +91,7 @@
                                 <div class="top-area section-text text-center justify-content-center">
                                     <h4 class="sub-title">Les conseils de paris les plus complets que vous pouvez trouver</h4>
                                     <h1 class="title">Nous traitons, vous gagnez</h1>
-                                    <p class="xlr">Notre equipe de pronostiqueurspartagent leurs meilleurs conseils de paris avec vous !</p>
+                                    <p class="xlr">Notre site est actuellement en construction mais vous pouvez avoir pour le moment les pronostic d'aujourd'hui demain et les meilleur prono</p>
                                 </div>
                                 
                             </div>
@@ -182,23 +179,46 @@
                     
                 </div>
                 <div class="row">
-                    <div class="col-md-4"> <!-- Adjusted column width to 4 (33% of row) -->
-                        <div class="card card-overlay-bottom card-grid-sm card-bg-scale mx-auto">
-                            <!-- Card Image overlay -->
+                    <!-- Première carte -->
+                    <div class="col-md-4">
+                        <div class="card card-overlay-bottom card-bg-scale mx-auto" style="--bg-image: url('{% static "images/mbappe.jpeg" %}');">
                             <div class="card-img-overlay d-flex flex-column justify-content-end p-3 p-sm-4">
-                                <!-- Card category -->
-                                <a href="#" class="badge bg-success mb-2"><i class="fas fa-circle me-2 small fw-bold"></i>Business</a>
-                                <!-- Card title -->
-                                <h4 class="text-white mb-3"><a href="post-single-4.html" class="stretched-link text-reset" style="color: white;">Five intermediate guide to business</a></h4>
-                                <!-- Card info -->
-                                
+                                <h4 class="text-white mb-3">
+                                    <a href="{% url 'display_pronostics_aujourdhui' %}" class="stretched-link text-reset" style="color: white;">
+                                        Pronostic foot Aujourdhui
+                                    </a>
+                                </h4>
                             </div>
                         </div>
                     </div>
                     
+                    <!-- Deuxième carte -->
+                    <div class="col-md-4">
+                        <div class="card card-overlay-bottom card-bg-scale mx-auto" style="--bg-image: url('{% static "images/messi.jpeg" %}');">
+                            <div class="card-img-overlay d-flex flex-column justify-content-end p-3 p-sm-4">
+                                <h4 class="text-white mb-3">
+                                    <a href="{% url 'display_pronostics_Demain' %}" class="stretched-link text-reset" style="color: white;">
+                                        Pronostic foot Demain
+                                    </a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
                     
-                    <!-- Add more cards here in additional col-md-4 sections -->
+                    <!-- Troisième carte -->
+                    <div class="col-md-4">
+                        <div class="card card-overlay-bottom card-bg-scale mx-auto" style="--bg-image: url('{% static "images/ronaldo.jpeg" %}');">
+                            <div class="card-img-overlay d-flex flex-column justify-content-end p-3 p-sm-4">
+                                <h4 class="text-white mb-3">
+                                    <a href="{% url 'display_pronostics_Meilleur' %}" class="stretched-link text-reset" style="color: white;">
+                                        Meilleur Pronostic du jour
+                                    </a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                
                 
                 
                 
@@ -246,44 +266,7 @@
     
 
     <!-- Footer Area Start -->
-    <footer class="footer-section">
-        <div class="container pt-120">
-            
-            <div class="footer-bottom-area pt-120">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="menu-item">
-                            <a href="index-2.html" class="logo">
-                                <img src="{% static 'images/logo.png' %}" alt="logo">
-                            </a>
-                            <ul class="footer-link">
-                                <li><a href="index-2.html">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="support-help.html">Support</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                                
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="copyright">
-                            <div class="copy-area">
-                                <p> Copyright © <a href="index-2.html">PronoFootIvoire</a> | Designed by
-                                    <a href="https://themeforest.net/user/pixelaxis" class="auth">GnahoreWilfried</a>
-                                </p>
-                            </div>
-                            <div class="social-link d-flex align-items-center">
-                                <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
-                                <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
-                                <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    
     <!-- Footer Area End -->
     {% endblock %}
 

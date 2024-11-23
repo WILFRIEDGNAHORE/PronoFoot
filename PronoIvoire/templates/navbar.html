@@ -1,12 +1,45 @@
 {% load static %}
 
+<style>
+    /* Style de la bannière */
+    .construction-banner {
+        background-color: #ffcc00; /* Couleur jaune pour attirer l'attention */
+        color: #000; /* Texte noir */
+        font-weight: bold;
+        text-align: center;
+        padding: 10px 0;
+        position: relative;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+    
+    /* Animation du texte défilant */
+    .construction-banner p {
+        display: inline-block;
+        padding-left: 100%;
+        animation: scroll-banner 10s linear infinite;
+    }
+    
+    @keyframes scroll-banner {
+        from {
+            transform: translateX(100%);
+        }
+        to {
+            transform: translateX(-100%);
+        }
+    }
+    </style>
+
 <header class="header-section">
     <div class="overlay">
         <div class="container">
+            <div class="construction-banner">
+                <h3><p>⚠️ Attention : Site en construction ! De Nouvelle fonctionnalité bientot Dispo ⚠️</p></h3>
+            </div>
             <div class="row d-flex header-area">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <a class="navbar-brand" href="index-2.html">
-                        <img src="{% static 'images/logo.png' %}" class="logo" alt="logo">
+                    <a class="navbar-brand" href="{% url 'home'%}">
+                        <img src="{% static 'images/Prono.png' %}" class="logo" alt="logo">
                     </a>
                     <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbar-content">
@@ -15,22 +48,23 @@
                     <div class="collapse navbar-collapse justify-content-end" id="navbar-content">
                         <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="index-2.html">Home</a>
+                                <a class="nav-link active" aria-current="page" href="{% url 'home'%}">Home</a>
                             </li>
+                            
                             <li class="nav-item dropdown main-navbar">
                                 <a class="nav-link dropdown-toggle" href="javascript:void(0)"
                                     data-bs-toggle="dropdown" data-bs-auto-close="outside">Pronostic Football</a>
                                 <ul class="dropdown-menu main-menu shadow">
-                                    <li><a class="nav-link" href="become-tipster.html">Pronosctic aujourdhui</a></li>
-                                    <li><a class="nav-link" href="find-tipsters.html">Pronosctic Demain</a></li>
-                                    <li><a class="nav-link" href="tipster-profile.html">Meilleur prono du Jour</a></li>
-                                    <li><a class="nav-link" href="tipster-profile.html">Pronostic Corners</a></li>
+                                    <li><a class="nav-link" href="{% url 'display_pronostics_aujourdhui'%}">Pronosctic aujourdhui</a></li>
+                                    <li><a class="nav-link" href="{% url 'display_pronostics_Demain'%}">Pronosctic Demain</a></li>
+                                    <li><a class="nav-link" href="{% url 'display_pronostics_Meilleur'%}">Meilleur prono du Jour</a></li>
+                                    
                                 </ul>
                             </li>
                             
-                            <li class="nav-item">
+                            <!-- <li class="nav-item">
                                 <a class="nav-link" href="contact.html">Contact</a>
-                            </li>
+                            </li> -->
                         </ul>
                         
                     </div>
@@ -38,4 +72,5 @@
             </div>
         </div>
     </div>
+    
 </header>
